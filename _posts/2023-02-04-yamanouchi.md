@@ -2,14 +2,14 @@
 layout: post
 title: "Yamanouchi • 山ノ内"
 tags: [tokyo, kyoto, osaka, hiroshima, yamanouchi]
-image: yamanouchi-hero.jpg
+image: /assets/uploads/images/test/yamanouchi-hero.jpg
 carousels:
   - images: 
-    - image: /assets/img/arctic-1.jpg
-    - image: /assets/img/arctic-2.jpg
+    - image: /assets/uploads/images/test/arctic-1.jpg
+    - image: /assets/uploads/images/test/arctic-2.jpg
   - images: 
-    - image: /assets/img/cuba-1.jpg
-    - image: /assets/img/cuba-2.jpg
+    - image: /assets/uploads/images/test/cuba-1.jpg
+    - image: /assets/uploads/images/test/cuba-2.jpg
 ---
 
 # Labore commodo velit irure in nostrud
@@ -25,7 +25,7 @@ Ullamco qui commodo nulla sint et eiusmod nulla eu. Sint reprehenderit dolore ni
 # Velit elit sit commodo laboris
 ## Sunday, Feb 5
 Ullamco laborum ipsum dolore Lorem consequat voluptate. Et aute sunt non nostrud laboris et id excepteur. Laboris consectetur dolore eiusmod aute duis exercitation deserunt adipisicing non sint pariatur sit esse ad. Nostrud esse et aute veniam mollit sunt ex velit non pariatur aliquip deserunt pariatur culpa.
-![City 1](/assets/img/city-1.jpg)
+![City 1](/assets/uploads/images/test/city-1.jpg)
 
 Tempor consectetur dolor deserunt occaecat quis tempor aliquip ex elit sunt ullamco reprehenderit enim pariatur. Qui ad consequat enim non voluptate voluptate veniam irure. Mollit quis esse veniam tempor consequat anim. Nostrud eiusmod Lorem et voluptate qui duis anim id aliquip minim ipsum veniam ad. Proident voluptate Lorem veniam sit nostrud eiusmod velit consequat id.
 {% include video.html video_id="WhY7uyc56ms" %}
@@ -36,4 +36,4 @@ Consequat reprehenderit proident esse ullamco. Anim ex pariatur est ea voluptate
 Duis in excepteur laborum culpa consectetur ex ad ea laboris anim. Exercitation Lorem mollit labore cupidatat nostrud proident adipisicing Lorem consectetur qui consectetur. Aliqua minim culpa ut pariatur pariatur esse sunt magna magna tempor laboris. Dolor dolor duis velit magna esse id anim deserunt. Excepteur esse consequat aute occaecat reprehenderit quis nisi in minim adipisicing. Tempor ipsum eu cupidatat aliquip laborum sint ea ex velit proident voluptate esse aute.
 
 Ad qui id est aliquip culpa excepteur culpa aliqua reprehenderit elit sit reprehenderit. Duis occaecat esse sit ipsum reprehenderit exercitation ut. Qui eu elit elit dolore cupidatat aliqua minim consequat labore.
-![Cuba 1](/assets/img/cuba-1.jpg)
+![Cuba 1](/assets/uploads/images/test/cuba-1.jpg)

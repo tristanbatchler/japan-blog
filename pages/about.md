@@ -5,7 +5,7 @@ permalink: /about
 ---
 
 Ad ut duis exercitation elit nisi dolore qui culpa exercitation irure elit mollit. Id laboris irure non aliquip laborum veniam est quis. Consectetur ullamco pariatur est magna ea cillum dolor.
-![Soph](/assets/img/soph.jpg)
+![Soph](/assets/uploads/images/test/soph.jpg)
 
 Nulla qui nisi incididunt officia fugiat sunt labore sint eiusmod ut deserunt. Labore tempor cillum dolore aute. Labore tempor ipsum enim sit commodo. Consectetur voluptate fugiat in ea eu minim ad ullamco consectetur adipisicing ipsum cillum Lorem. Adipisicing ullamco aliqua ex cupidatat anim. Quis deserunt voluptate ea sint officia officia duis. Et et proident aliqua sit irure in.
 

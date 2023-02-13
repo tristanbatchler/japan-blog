@@ -2,15 +2,15 @@
 layout: post
 title: "Tōkyō • 東京"
 tags: [tokyo]
-image: tokyo-hero-2.jpg
+image: /assets/uploads/images/test/tokyo-hero-2.jpg
 carousels:
   - images: 
-    - image: /assets/img/arctic-1.jpg
-    - image: /assets/img/arctic-2.jpg
-    - image: /assets/img/soph.jpg
+    - image: /assets/uploads/images/test/arctic-1.jpg
+    - image: /assets/uploads/images/test/arctic-2.jpg
+    - image: /assets/uploads/images/test/soph.jpg
   - images: 
-    - image: /assets/img/cuba-1.jpg
-    - image: /assets/img/cuba-2.jpg
+    - image: /assets/uploads/images/test/cuba-1.jpg
+    - image: /assets/uploads/images/test/cuba-2.jpg
 ---
 
 # Take-off and touch-down
@@ -18,7 +18,7 @@ carousels:
 Deserunt sint cupidatat eu incididunt magna. Tempor excepteur labore ex et sunt ipsum mollit consectetur pariatur irure id et. Sit ex cupidatat esse sint aute irure incididunt fugiat qui ut nisi in fugiat.
 
 Velit magna est quis aliquip ad laborum qui quis reprehenderit ea veniam proident pariatur. Ex deserunt ullamco mollit cupidatat consequat anim aliquip nisi quis. Incididunt reprehenderit ut sit ut cupidatat elit consectetur duis.
-![Steven](/assets/img/steven.jpg "Steven")
+![Steven](/assets/uploads/images/test/steven.jpg "Steven")
 
 Commodo qui elit nisi aliquip. Eiusmod do exercitation amet consequat ea exercitation nulla magna sunt cupidatat pariatur. Nisi est sint elit mollit tempor nostrud occaecat. Do reprehenderit consequat proident occaecat deserunt laborum exercitation nisi quis id laboris velit.
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
@@ -46,7 +46,7 @@ Excepteur occaecat tempor esse sint aliqua voluptate cillum irure duis incididun
 # Do sint sunt proident esse reprehenderit
 ## Sunday, Jan 22
 Proident proident reprehenderit nulla velit in. Officia cupidatat esse occaecat pariatur. Minim est adipisicing laboris ullamco nulla mollit elit anim. Est id eu sunt duis.
-![City 1](/assets/img/city-1.jpg)
+![City 1](/assets/uploads/images/test/city-1.jpg)
 
 Qui cillum non quis laboris culpa dolor nulla tempor nostrud exercitation officia laboris Lorem. Voluptate duis quis quis esse velit irure id adipisicing in in deserunt duis. Fugiat cupidatat deserunt enim aliquip. Pariatur sint ex ullamco Lorem. Aliqua Lorem duis ut consectetur aute ullamco cupidatat. Dolor dolor sint laborum enim veniam exercitation minim. Qui nisi dolore et aliqua deserunt laborum labore id aliqua.
 
