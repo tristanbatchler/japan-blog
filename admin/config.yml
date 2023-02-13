@@ -29,3 +29,27 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Permalink', name: 'permalink', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'settings'
+    label: 'Settings'
+    editor:
+      preview: false
+    files:
+      - label: 'Settings'
+        name: 'settings'
+        file: '_data/settings.yml'
+        fields:
+          - label: '"Related Posts" text'
+            name: 'related_posts'
+            widget: 'string'
+
+          - label: 'Google Analytics ID'
+            name: 'google-ID'
+            widget: 'string'
+
+          - label: 'Menu items'
+            name: 'menu'
+            widget: 'list'
+            fields:
+              - { label: Name, name: name, widget: string }
+              - { label: URL, name: url, widget: string }
