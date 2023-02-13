@@ -15,5 +15,5 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Hero image', name: 'image', widget: 'image', allow_multiple: false, media_folder: 'assets/uploads' }
+      - { label: 'Hero image', name: 'image', widget: 'image', allow_multiple: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
