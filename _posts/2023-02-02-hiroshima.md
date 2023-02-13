@@ -2,16 +2,16 @@
 layout: post
 title: "Hiroshima • 広島市"
 tags: [tokyo, kyoto, osaka, hiroshima]
-image: /assets/uploads/images/test/hiroshima-hero.jpg
+image: /assets/uploads/images/hiroshima-hero.jpg
 carousels:
   - images: 
-    - image: /assets/uploads/images/test/tokyo-hero.jpg
-    - image: /assets/uploads/images/test/cuba-2.jpg
+    - image: /assets/uploads/images/tokyo-hero.jpg
+    - image: /assets/uploads/images/cuba-2.jpg
   - images: 
-    - image: /assets/uploads/images/test/soph.jpg
-    - image: /assets/uploads/images/test/osaka-hero.jpg
-    - image: /assets/uploads/images/test/cuba-1.jpg
-    - image: /assets/uploads/images/test/city-1.jpg
+    - image: /assets/uploads/images/soph.jpg
+    - image: /assets/uploads/images/osaka-hero.jpg
+    - image: /assets/uploads/images/cuba-1.jpg
+    - image: /assets/uploads/images/city-1.jpg
 ---
 
 # Anim excepteur culpa laborum excepteur
@@ -20,7 +20,7 @@ Ipsum ipsum incididunt laborum excepteur id duis est et tempor veniam est. Venia
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
 Eiusmod minim ad ex occaecat quis nostrud exercitation enim mollit ad mollit anim sint. Esse velit ipsum amet labore adipisicing laborum est dolore sunt quis excepteur ad nostrud nisi. Officia duis qui mollit excepteur. Nostrud ipsum est magna mollit qui. Sit ea laborum excepteur cupidatat id. Consectetur eu ullamco enim consectetur irure. Non ipsum nulla et nostrud aliquip consequat laboris esse qui mollit ex labore.
-![Arctic 2](/assets/uploads/images/test/arctic-2.jpg)
+![Arctic 2](/assets/uploads/images/arctic-2.jpg)
 
 
 # Adipisicing nisi quis ea elit elit et et non duis
@@ -36,6 +36,6 @@ Excepteur ea excepteur incididunt elit est. Nisi sint sint tempor Lorem commodo 
 {% include carousel.html height="50" unit="%" duration="7" number="2" %}
 
 Duis in excepteur laborum culpa consectetur ex ad ea laboris anim. Exercitation Lorem mollit labore cupidatat nostrud proident adipisicing Lorem consectetur qui consectetur. Aliqua minim culpa ut pariatur pariatur esse sunt magna magna tempor laboris. Dolor dolor duis velit magna esse id anim deserunt. Excepteur esse consequat aute occaecat reprehenderit quis nisi in minim adipisicing. Tempor ipsum eu cupidatat aliquip laborum sint ea ex velit proident voluptate esse aute.
-![Cuba 1](/assets/uploads/images/test/cuba-1.jpg)
+![Cuba 1](/assets/uploads/images/cuba-1.jpg)
 
 Ad qui id est aliquip culpa excepteur culpa aliqua reprehenderit elit sit reprehenderit. Duis occaecat esse sit ipsum reprehenderit exercitation ut. Qui eu elit elit dolore cupidatat aliqua minim consequat labore.
