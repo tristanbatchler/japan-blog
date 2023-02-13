@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tōkyō / 東京"
+title: "Tōkyō • 東京"
 tags: [tokyo]
 image: tokyo-hero-2.jpg
 carousels:

@@ -1,28 +1,48 @@
 <div class="related">
   <h2>{{ site.data.settings.related_posts }}</h2>
-  {% assign listed_posts_urls = page.url | split: ' ' %}
   <ul class="related-posts">
-    {% for tag in page.tags %}
-      {% for mypost in site.tags[tag] limit:2 %}
-        {% if listed_posts_urls contains mypost.url %}
-        {% else %}
-          <li>
-            <h3>
-              <a href="{{ site.github.url }}{{ mypost.url }}">
-                <div class="related-thumbnail">
-                  {% if mypost.image %}
-                    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ mypost.image }}">
-                  {% endif %}
-                </div>
-                <div class="related-title">
-                  {{ mypost.title }}
-                </div>
-              </a>
-            </h3>
-          </li>
-          {% assign listed_posts_urls = listed_posts_urls | push: mypost.url %}
-        {% endif %}
-      {% endfor %}
+    {% assign start_idx = -1 %}
+    {% for post in site.posts reversed %}
+      {% if post.url == page.url %}
+        {% assign start_idx = forloop.index0 %}
+        {% continue %}
+      {% endif %}
+    
+      {% if start_idx > -1 %}
+        <li>
+          <h3>
+            <a href="{{ site.github.url }}{{ post.url }}">
+              <div class="related-thumbnail">
+                {% if post.image %}
+                  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ post.image }}">
+                {% endif %}
+              </div>
+              <div class="related-title">
+                {{ post.title }}
+              </div>
+            </a>
+          </h3>
+        </li>
+        {% break %}
+      {% endif %}
     {% endfor %}
+    
+    {% if start_idx == 5 %}
+      <p>That's it!</p>
+      <li>
+        <h3>
+          <a href="/tokyo">
+            <div class="related-thumbnail">
+              
+                <img src="/assets/img/tokyo-hero.jpg">
+              
+            </div>
+            <div class="related-title">
+              Back to the beginning…
+            </div>
+          </a>
+        </h3>
+      </li>
+    {% endif %}
   </ul>
 </div>

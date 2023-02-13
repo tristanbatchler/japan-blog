@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hiroshima / 広島市"
+title: "Hiroshima • 広島市"
 tags: [tokyo, kyoto, osaka, hiroshima]
 image: hiroshima-hero.jpg
 carousels:

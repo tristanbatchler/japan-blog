@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yamanouchi / 山ノ内"
+title: "Yamanouchi • 山ノ内"
 tags: [tokyo, kyoto, osaka, hiroshima, yamanouchi]
 image: yamanouchi-hero.jpg
 carousels:
