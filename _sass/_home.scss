@@ -1,10 +1,11 @@
 .featured-post {
-  height: 400px;
   margin: 5px 10px 10px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  height: 40vw;
+  max-height: 400px;
 }
 .featured-post h2 {
   bottom: 0;
