@@ -17,3 +17,14 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Hero image', name: 'image', widget: 'image', allow_multiple: false, media_folder: '/assets/uploads/images' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  
+  - name: 'page'
+    label: 'Page'
+    folder: 'pages'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Permalink', name: 'permalink', widget: 'string' }
