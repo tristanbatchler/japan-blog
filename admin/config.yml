@@ -28,3 +28,4 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Permalink', name: 'permalink', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
