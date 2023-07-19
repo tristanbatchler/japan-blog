@@ -17,7 +17,7 @@ carousels:
 # Anim excepteur culpa laborum excepteur
 ## Thursday, Feb 2
 Ipsum ipsum incididunt laborum excepteur id duis est et tempor veniam est. Veniam sint ipsum esse ad reprehenderit et dolor quis minim occaecat. Et veniam occaecat qui consectetur. Lorem minim est sint labore ea duis proident laborum qui aute in sint reprehenderit. Excepteur eiusmod commodo est non magna id non non nisi est qui anim. Fugiat est sint voluptate sit aliqua irure elit officia officia culpa Lorem. Consequat consequat laborum non mollit pariatur labore.
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
 
 Eiusmod minim ad ex occaecat quis nostrud exercitation enim mollit ad mollit anim sint. Esse velit ipsum amet labore adipisicing laborum est dolore sunt quis excepteur ad nostrud nisi. Officia duis qui mollit excepteur. Nostrud ipsum est magna mollit qui. Sit ea laborum excepteur cupidatat id. Consectetur eu ullamco enim consectetur irure. Non ipsum nulla et nostrud aliquip consequat laboris esse qui mollit ex labore.
 ![Arctic 2](/assets/uploads/images/arctic-2.jpg)
@@ -33,7 +33,7 @@ Tempor consectetur dolor deserunt occaecat quis tempor aliquip ex elit sunt ulla
 Consequat reprehenderit proident esse ullamco. Anim ex pariatur est ea voluptate minim adipisicing nulla laboris excepteur. Quis est exercitation magna excepteur voluptate. Laboris aliqua id aliqua aliquip laboris exercitation. Nulla duis sit laborum tempor ea excepteur sunt.
 
 Excepteur ea excepteur incididunt elit est. Nisi sint sint tempor Lorem commodo ipsum duis consequat ea ea eiusmod ea qui laboris. Ullamco ut elit elit do et eiusmod amet ad qui sit fugiat irure officia. Anim dolor nulla labore magna aliqua et dolore ea sunt aliqua laboris ea duis anim.
-{% include carousel.html height="50" unit="%" duration="7" number="2" %}
+
 
 Duis in excepteur laborum culpa consectetur ex ad ea laboris anim. Exercitation Lorem mollit labore cupidatat nostrud proident adipisicing Lorem consectetur qui consectetur. Aliqua minim culpa ut pariatur pariatur esse sunt magna magna tempor laboris. Dolor dolor duis velit magna esse id anim deserunt. Excepteur esse consequat aute occaecat reprehenderit quis nisi in minim adipisicing. Tempor ipsum eu cupidatat aliquip laborum sint ea ex velit proident voluptate esse aute.
 ![Cuba 1](/assets/uploads/images/cuba-1.jpg)

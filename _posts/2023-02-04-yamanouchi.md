@@ -15,7 +15,7 @@ carousels:
 # Labore commodo velit irure in nostrud
 ## Saturday, Feb 4
 Irure deserunt elit irure eiusmod laborum cillum labore cillum voluptate anim culpa consectetur et proident. Commodo consequat deserunt laborum occaecat tempor fugiat voluptate aute veniam quis sunt aute ullamco. Aliqua anim consectetur in dolor aliquip aute id nisi laborum sit sit. Est anim occaecat culpa ad incididunt aute amet mollit. Eiusmod adipisicing ad duis amet voluptate id cillum nostrud laborum.
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
 
 Eiusmod minim ad ex occaecat quis nostrud exercitation enim mollit ad mollit anim sint. Esse velit ipsum amet labore adipisicing laborum est dolore sunt quis excepteur ad nostrud nisi. Officia duis qui mollit excepteur. Nostrud ipsum est magna mollit qui. Sit ea laborum excepteur cupidatat id. Consectetur eu ullamco enim consectetur irure. Non ipsum nulla et nostrud aliquip consequat laboris esse qui mollit ex labore.
 
@@ -31,7 +31,7 @@ Tempor consectetur dolor deserunt occaecat quis tempor aliquip ex elit sunt ulla
 {% include video.html video_id="WhY7uyc56ms" %}
 
 Consequat reprehenderit proident esse ullamco. Anim ex pariatur est ea voluptate minim adipisicing nulla laboris excepteur. Quis est exercitation magna excepteur voluptate. Laboris aliqua id aliqua aliquip laboris exercitation. Nulla duis sit laborum tempor ea excepteur sunt.
-{% include carousel.html height="50" unit="%" duration="7" number="2" %}
+
 
 Duis in excepteur laborum culpa consectetur ex ad ea laboris anim. Exercitation Lorem mollit labore cupidatat nostrud proident adipisicing Lorem consectetur qui consectetur. Aliqua minim culpa ut pariatur pariatur esse sunt magna magna tempor laboris. Dolor dolor duis velit magna esse id anim deserunt. Excepteur esse consequat aute occaecat reprehenderit quis nisi in minim adipisicing. Tempor ipsum eu cupidatat aliquip laborum sint ea ex velit proident voluptate esse aute.
 

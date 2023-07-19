@@ -33,7 +33,7 @@ Et consequat qui anim sunt nulla occaecat non. Qui adipisicing amet voluptate oc
 Irure elit quis proident commodo ullamco consectetur dolore esse. Duis laborum dolore excepteur ea commodo sunt sit ex et sit labore. Commodo exercitation ullamco Lorem qui.
 
 Laborum eiusmod anim nulla veniam nisi enim nisi fugiat. Ut commodo culpa ipsum laboris elit excepteur fugiat nostrud. Excepteur labore incididunt labore eu magna fugiat officia in ut commodo Lorem velit non ullamco.
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
 
 Aute duis eiusmod aliquip occaecat nostrud ipsum dolore. Magna officia occaecat enim cupidatat mollit ex laborum magna culpa consequat. Sunt nostrud do ipsum est voluptate occaecat et Lorem eiusmod duis.
 ![City 1](/assets/uploads/images/city-1.jpg)
@@ -60,7 +60,7 @@ Mollit commodo fugiat et sunt velit deserunt nulla in et deserunt nostrud incidi
 Pariatur ut et sit laboris veniam veniam qui mollit sit labore est. Sit esse commodo tempor quis id enim ex incididunt. Magna est aute consequat et amet aliquip. Irure quis non proident esse tempor amet sunt dolore nisi dolore proident adipisicing. Cillum id et aliqua elit Lorem do duis. Commodo nisi qui consequat cupidatat ex adipisicing quis Lorem.
 
 Ipsum non ut velit ut do ullamco velit est aliquip aliqua voluptate laboris elit. In cillum ut aliquip aliqua sit enim veniam nostrud consectetur. Lorem eu do minim fugiat quis cupidatat qui exercitation do magna dolor est. Aliquip culpa aliquip nostrud sint elit. Qui et non esse consequat dolore mollit nulla est. Deserunt pariatur minim aliqua adipisicing. Dolor voluptate nisi cillum reprehenderit non id consectetur ut commodo irure eiusmod incididunt sit.
-{% include carousel.html height="50" unit="%" duration="7" number="2" %}
+
 
 Incididunt consequat minim ex ut in. Culpa adipisicing anim exercitation dolor proident ut fugiat nisi sint qui. Sunt enim mollit dolor culpa enim id elit enim.
 ![Cuba 2](/assets/uploads/images/cuba-2.jpg)
