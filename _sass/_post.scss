@@ -112,3 +112,41 @@
     width: 95vw;
   }
 }
+
+.image-gallery {
+  margin-left: -1px;
+  display: flex;
+  justify-content: center;
+
+  li {
+    float: left; 
+    display: block; 
+    margin-left: 5px;
+    margin-right: 5px;
+    width: auto;
+    height: 300px;  /* Set height here */
+    overflow: hidden;  /* Hide parts of image that don't fit */
+
+    a {
+      text-align: center; 
+      text-decoration: none!important; 
+      color: #777;
+
+      span {
+        display: block; 
+        text-overflow: ellipsis; 
+        overflow: hidden; 
+        white-space: nowrap; 
+        padding: 3px 0;
+      }
+    }
+
+    img {
+      height: 100%; /* Now image takes full height of li */
+      width: 100%; /* And full width of li */
+      display: block;
+      border-radius: 10px;
+      object-fit: cover;
+    }
+  }
+}

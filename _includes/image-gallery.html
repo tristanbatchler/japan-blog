@@ -1,52 +1,29 @@
-<style>
-    .image-gallery li {
-        float: left; 
-        display: block; 
-        margin: 0 0 3% 3%; 
-        width: auto;
-        height: 200px;  /* Set height here */
-        overflow: hidden;  /* Hide parts of image that don't fit */
-    }
-    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
-    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
-    .image-gallery li a img {
-        height: 100%; /* Now image takes full height of li */
-        width: 100%; /* And full width of li */
-        object-fit: cover; /* Maintain aspect ratio */
-        display: block;
-        border-radius: 10px;
+{% comment %} Ensure include.folder has both a leading and trailing slash {% endcomment %}
+{% assign folder = "/" | append: include.folder | append: "/" | replace: "//","/" %}
 
-    }
-    .gallery-container {
-        display: flex;
-        justify-content: center;
-    }
+{% comment %} Loop over all images in the site, and if its containing folder matches the supplied include.folder, then display said image {% endcomment %}
+<ul class="image-gallery">
+    {% for file in site.static_files %}
+        {% assign containingfolderpath = file.path | replace: file.name,"" | replace: "//","/" %}
 
-    .image-gallery {
-        display: flex; 
-        flex-wrap: nowrap;
-        justify-content: center;
-    }
-
-</style>
-
-
-{% comment %} Loop through the images in the folder and display them, ensuring they all have the same height {% endcomment %}
-<div class="gallery-container">
-    <ul class="image-gallery">
-        {% for file in site.static_files %}
-            {% if file.path contains include.folder %}
-                {% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
-                    {% assign filenameparts = file.path | split: "/" %}
-                    {% assign filename = filenameparts | last | replace: file.extname,"" %}
-                    <li>
-                        <a href="{{ file.path | relative_url }}">
-                            <img src="{{ file.path | relative_url }}" alt="{{ filename }}" />
-                        </a>
-                        <span>{{ filename }}</span>
-                    </li>
-                {% endif %}
+        {% if containingfolderpath == folder %}
+            {% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
+                {% assign filenameparts = file.path | split: "/" %}
+                {% assign filename = filenameparts | last | replace: file.extname,"" %}
+                {% assign imagepath = file.path | relative_url %}
+                <li>
+                    <a href="{{ imagepath }}">
+                        {% if site.url contains 'localhost' or site.url contains '127.0.0.1' %}
+                            {% comment %} If the site is running locally, then just display the image as-is {% endcomment %}
+                            <img src="{{ imagepath }}" alt="{{ filename }}" />
+                        {% else %}
+                            {% comment %} If the site is running on the Internet, then use the weserv.nl service to resize and optimize the image {% endcomment %}
+                            <img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ imagepath }}&h=300&output=jpg&q=85" alt="{{ filename }}" alt="{{ filename }}" />
+                            <span>{{ filename }}</span>
+                        {% endif %}
+                    </a>
+                </li>
             {% endif %}
-        {% endfor %}
-    </ul>
-</div>
+        {% endif %}
+    {% endfor %}
+</ul>
