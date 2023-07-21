@@ -3,13 +3,6 @@ layout: post
 title: "Yamanouchi • 山ノ内"
 tags: [tokyo, kyoto, osaka, hiroshima, yamanouchi]
 image: /assets/uploads/images/yamanouchi-hero.jpg
-carousels:
-  - images: 
-    - image: /assets/uploads/images/arctic-1.jpg
-    - image: /assets/uploads/images/arctic-2.jpg
-  - images: 
-    - image: /assets/uploads/images/cuba-1.jpg
-    - image: /assets/uploads/images/cuba-2.jpg
 ---
 
 # Labore commodo velit irure in nostrud

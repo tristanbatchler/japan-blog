@@ -3,15 +3,6 @@ layout: post
 title: "Hiroshima • 広島市"
 tags: [tokyo, kyoto, osaka, hiroshima]
 image: /assets/uploads/images/hiroshima-hero.jpg
-carousels:
-  - images: 
-    - image: /assets/uploads/images/tokyo-hero.jpg
-    - image: /assets/uploads/images/cuba-2.jpg
-  - images: 
-    - image: /assets/uploads/images/soph.jpg
-    - image: /assets/uploads/images/osaka-hero.jpg
-    - image: /assets/uploads/images/cuba-1.jpg
-    - image: /assets/uploads/images/city-1.jpg
 ---
 
 # Anim excepteur culpa laborum excepteur

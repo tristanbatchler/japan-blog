@@ -4,14 +4,6 @@ title: Tōkyō • 東京
 tags:
   - tokyo
 image: /assets/uploads/images/tokyo-hero-2.jpg
-carousels:
-  - images:
-      - image: /assets/uploads/images/arctic-1.jpg
-      - image: /assets/uploads/images/arctic-2.jpg
-      - image: /assets/uploads/images/soph.jpg
-  - images:
-      - image: /assets/uploads/images/cuba-1.jpg
-      - image: /assets/uploads/images/cuba-2.jpg
 ---
 # Sunt in nostrud ullamco minim
 
