@@ -104,7 +104,7 @@ We returned our skates, got our stuff back, and took some photos and videos with
 
 We then took the subway back to Shibuya. It was a direct line from the Skytree, which was lucky. We even managed to get seats, which is a rare luxury in Japan. 
 
-Back in Shibuya, we stopped at a Family Mart near our hotel for some drinks. We sat outside the Family Mart one last time before we leave, just like we used to do when we first got here. 
+Back in Shibuya, we stopped at a FamilyMart near our hotel for some drinks. We sat outside the FamilyMart one last time before we leave, just like we used to do when we first got here. 
 
 Back at the hotel, we had a nice bath and then sat down to record this podcast. We'll see you tomorrow or the next day for our final recap on this trip. Bye!
 
