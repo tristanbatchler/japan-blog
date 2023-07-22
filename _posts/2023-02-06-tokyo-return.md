@@ -108,3 +108,25 @@ Back in Shibuya, we stopped at a Family Mart near our hotel for some drinks. We 
 
 Back at the hotel, we had a nice bath and then sat down to record this podcast. We'll see you tomorrow or the next day for our final recap on this trip. Bye!
 
+# Day 20: Last day in Japan and TeamLab
+Our last official day in Japan started with a bit of a laundry mishap. We had put a load of washing in the night before, hoping it would be dry by morning. But, in our tiredness, we forgot to put it on a second dry cycle. Tristan woke up in a panic, realizing our clothes were still wet, and we had a busy day ahead. In a rush, he put it on what he thought was a dry cycle, but it turned out to be another wash cycle. So, our clothes ended up even wetter than before!
+
+With a full load of sopping wet clothes and a ticking clock, we had to think on our feet. We packed our wet clothes into a plastic bag from Domino's and stuffed it into Tristan's suitcase, hoping it wouldn't leak. We then asked the hotel reception to hold our bags while we went to TeamLab, a digital art museum we had been looking forward to visiting.
+
+We left our luggage, heavy with wet clothes, at the hotel and headed out into the snow, a sight we hadn't seen before in Tokyo. We grabbed our final breakfast at Dotonbori and then made our way to Shibuya Station. We hopped on a couple of trains and even got to ride the monorail to TeamLab's, which was a fun little detour.
+
+At TeamLab's, we were greeted by a huge line of people waiting to get in. We waited for about 20 minutes before we could scan our tickets and enter. Once inside, we were ushered into a black room where we had to take off our shoes and store our belongings in a locker. The only things we kept with us were our phones and cameras, ready to capture the magic of TeamLab's.
+
+The first part of the exhibit was the water section. We walked up a small hill with water rushing down, which was a sensory delight. The rooms were dark, with only red lights at the bottom to guide our way. We saw projections of koi fish and flowers in knee-deep water, giant inflatable balls that changed color when touched, and a room filled with real orchids hanging from the ceiling. The visuals were stunning, and we spent a good amount of time just soaking it all in.
+
+{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/8" %}
+
+After our visit to TeamLab's, we grabbed burgers at the Great Burger Stand before heading back to the hotel to collect our luggage. We then found a nearby laundromat to dry our clothes. It was a bit of a struggle lugging our heavy bags in the rain, but we managed. We're now waiting for our clothes to dry, hoping we won't have to do another cycle. Depending on how quickly our clothes dry, we'll either catch the 4:15 or 5:15 train.
+
+{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/9" %}
+
+We're not going to sugarcoat it, the laundry mishap has been a huge bummer, and we're absolutely drenched from the freezing rain we had to walk through to the laundromat! But hey, we're still in high spirits because the hard part is over (or so we think). Now, all we have to do is wait for our clothes to dry and catch our train. We're crossing our fingers and hoping we'll breeze through customs without any hitches. 
+
+We're currently in cool-down mode, taking a breather and just soaking in the experience. We're learning as we go, and even though we're a bit wet and weary, we're still having the time of our lives. 
+
+[Part about the nightmare of getting to the airport missing?]
