@@ -5,65 +5,106 @@ tags:
   - tokyo
 image: /assets/uploads/images/tokyo-hero-2.jpg
 ---
-# Sunt in nostrud ullamco minim
+# Day 16: Back to Tokyo
 
-## Monday, Feb 6
+When we woke up in our futons at the ryokan in Yudanaka, we planned to visit the onsen downstairs. Unfortunately, Sophie was too tired, and Tristan found out it didn't open until nine. So, we spent the morning relaxing, packing, drinking tea in the sunroom while admiring the clear view of the mountains. 
 
-Quis aliquip minim tempor eu ex consequat ex tempor. Consectetur tempor aliqua elit ea aliqua reprehenderit dolore anim fugiat do. Laboris dolore qui enim ea amet est voluptate veniam. Culpa laborum do id labore laborum non quis commodo. Quis pariatur do deserunt veniam proident ullamco deserunt fugiat qui Lorem velit laboris officia. Exercitation reprehenderit velit esse nisi mollit est ad sunt.
+{% include image-gallery.html folder="/assets/uploads/images/yudanaka/7" %}
 
-Eu veniam velit ex do. Officia excepteur laboris consequat pariatur qui enim eiusmod duis eu eu mollit cillum reprehenderit. Esse cillum laboris nulla ipsum anim deserunt aute nostrud velit exercitation excepteur est. Ut fugiat eu exercitation reprehenderit irure cupidatat consequat nostrud excepteur elit pariatur do do velit. Minim aute non magna laborum commodo dolor cupidatat anim consequat elit fugiat.
-{% include video.html video_id="WhY7uyc56ms" %}
+When we checked out, the owner gave us adorable little ribbons with five yen coins to tie to our bags. We then headed to the station, but not before the owner insisted on taking a group photo with us. He set up a digital camera on a timer, and just as it was about to go off, he shouted "Monkey!" instead of "Cheese!" We were caught off guard and couldn't join in, but it was hilarious. 
 
-Et consequat qui anim sunt nulla occaecat non. Qui adipisicing amet voluptate occaecat. Cillum aliquip irure sit qui reprehenderit sunt amet culpa proident irure veniam dolor. Ut voluptate nulla sint consectetur adipisicing mollit esse voluptate cillum ad ea. Pariatur aliquip dolor commodo eiusmod ad ea duis anim deserunt pariatur ea minim Lorem irure. Esse est amet eiusmod sint id dolor amet officia cillum laboris nulla excepteur consequat. Officia irure deserunt velit veniam nulla.
+He even tried to sell us some t-shirts before we left. We politely declined, eager to continue our journey. We were relieved when he didn't offer to drive us to the station, as we weren't too keen on getting back into his death trap of a car. 
 
-![](/assets/uploads/theboys.png)
+And so, our adventure continues. We're learning, laughing, and loving every minute of it. Stay tuned for more of our travel tales!
 
-# Minim dolor et Lorem deserunt cillum
+As we prepare to leave Yudanaka, we're planning to have a chill night. We're looking forward to a quiet evening, perhaps with a good book or a movie, before we pack our bags and head off to our next destination. We're excited about the adventures that await us, but we're also a little sad to be leaving this weird and wonderful place behind.
 
-## Tuesday, Feb 7
+{% include image-gallery.html folder="/assets/uploads/images/yudanaka/8" %}
 
-Irure elit quis proident commodo ullamco consectetur dolore esse. Duis laborum dolore excepteur ea commodo sunt sit ex et sit labore. Commodo exercitation ullamco Lorem qui.
+After walking back to Yudanaka station for the last time, a friendly station attendant helped us purchase our tickets to Nagano. We had a bit of a wait for our train, so we grabbed some pizza buns and hot tea from Lawson. The line to board the train was a bit confusing, and we ended up switching lines a few times before finally boarding. 
 
-Laborum eiusmod anim nulla veniam nisi enim nisi fugiat. Ut commodo culpa ipsum laboris elit excepteur fugiat nostrud. Excepteur labore incididunt labore eu magna fugiat officia in ut commodo Lorem velit non ullamco.
+Once on the train, we found that Tristan's luggage fit in the overhead carry area, but Sophie's didn't. So, we had to sit separately, with Sophie next to her luggage. The train ride was a pleasant 45 minutes with some great views. We arrived in Nagano and navigated our way out of the station, got some Shinkansen tickets, and used our JR Pass for the last time. 
 
+We had to settle for a three-seater as there were no two-seaters left. Thankfully, no one sat next to us, and we enjoyed a peaceful ride. We got off near Tokyo and transferred to another train to get to Shibuya. The ticketing system was a bit confusing, but we managed to figure it out and made it to Shibuya station without any issues. 
 
-Aute duis eiusmod aliquip occaecat nostrud ipsum dolore. Magna officia occaecat enim cupidatat mollit ex laborum magna culpa consequat. Sunt nostrud do ipsum est voluptate occaecat et Lorem eiusmod duis.
-![City 1](/assets/uploads/images/city-1.jpg)
+Once we left the station, we found it quite busy, possibly due to some construction. Sophie started feeling a bit off, but we chalked it up to tiredness. We explored the area a bit, had a funny encounter with a security guard who seemed to want to stop us from walking down a particular street. To make matters worse, she was extremely confused when Tristan told her "we don't speak English" (he meant to say "Japanese"!), and then headed back to our hotel feeling silly and embarrassed. 
 
-Ut culpa ullamco dolor ad ea. Deserunt fugiat adipisicing aliquip elit velit labore laborum. Non aliqua laborum velit adipisicing enim Lorem. Ex ea est sint qui aute et laboris laborum reprehenderit amet deserunt ut. Enim cillum dolore proident fugiat. Minim nostrud nostrud irure occaecat ullamco labore ipsum qui veniam pariatur.
+Sophie was feeling worse by this point, so she took a long bath and rested while Tristan unpacked. We decided to venture out again for some food and shopping. We visited Bic Camera, which was a bit overwhelming with its multiple levels and variety of products. We managed to find what we needed and then headed to a burger place called The Great Burger Stand. 
 
-# Tempor qui ad aliquip laboris ad ea
+{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/1" %}
 
-## Wednesday, Feb 8
+The food was good, and we enjoyed some plant-based options. However, Sophie was feeling even worse by this point, so we headed back to the hotel. She had a rough night, and Tristan didn't sleep much either due to the small bed and the loud air conditioning. 
 
-Minim aliquip laborum cillum sunt nulla eu quis tempor duis laborum cupidatat. Eu Lorem esse do in ea laborum veniam. Amet mollit ipsum dolore deserunt Lorem irure sit aliquip et. Aliquip reprehenderit aliquip est excepteur esse pariatur cupidatat. Enim consectetur laboris dolor enim nisi fugiat anim nisi ad laborum non. Est minim reprehenderit et dolor occaecat quis.
+# Day 17: A day of rest
+The next day, Sophie was still not feeling well, and we had pre-booked tickets to Team Labs. Without thinking logically, we decided it would be better if Tristan went by himself even though we would have loved to experience it together. With a heavy heart, Tristan got ready and began to leave for Team Labs on his own. Meanwhile, Sophie had a moment of clarity and thought to check if we could rebook for Friday. It turns out we could, and we managed to rebook our tickets! We were really hoping Sophie would feel better by then, but we were both so relieved we avoided Tristan having to go alone. We missed out on the cost of the tickets, but we didn't mind one bit. 
 
-Laborum sint cillum dolore et dolore veniam aliquip sunt sint ea sint nisi quis laborum. Est do adipisicing officia eu sunt sint eu exercitation ut ad. In non aliquip laborum do velit eu occaecat qui duis velit sit culpa occaecat est. Nostrud tempor dolore reprehenderit sit aliqua voluptate enim dolore eu culpa tempor dolor. Et sunt consectetur cupidatat nulla cillum sit nulla aute ullamco laboris eu ullamco velit eiusmod.
-{% include video.html video_id="WhY7uyc56ms" %}
+We decided to stay in and watch some movies. We decided to stay in and watch New People, Chef, and then Julie and Julia. It was a pretty chill day, we didn't interact much with anyone else. We did manage to venture out for a short walk to Macca's, grabbed a meal, split it between us, and enjoyed it by a nearby stream. Sophie was starting to feel a bit better, but we didn't want to push it. 
 
-Pariatur dolor amet adipisicing laboris mollit ut labore consectetur deserunt pariatur reprehenderit reprehenderit sunt ipsum. Lorem reprehenderit et do non aliqua officia amet qui qui qui ullamco aliquip dolore excepteur. Excepteur ex fugiat ex culpa proident reprehenderit et pariatur eiusmod. Exercitation deserunt anim ad ex sit nisi nostrud nisi.
+# Day 18: Studio Ghibli Museum
+The next day, we woke up early because we had tickets to the Studio Ghibli Museum. Sophie was feeling much better, so we grabbed our favorite breakfast from Doutor - cheese toast, apple juice for me, and a hot coffee for Tristan. We then realized we needed our tickets to get into the museum, which were hidden amongst our pile of receipts. After a bit of a scramble, we found them and headed off to Shibuya Station.
 
-# Magna laborum sint Lorem officia deserunt voluptate
+{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/2" %}
 
-## Thursday, Feb 9
+After a nice walk through a park in Mitaka, we finally made it to the museum, and we were so excited when I saw the giant Totoro in the ticket booth. There was already a line of excited people waiting to get in, and the energy was infectious.
 
-Mollit commodo fugiat et sunt velit deserunt nulla in et deserunt nostrud incididunt irure. Tempor mollit Lorem est consectetur. Ea dolor velit fugiat exercitation adipisicing est est tempor occaecat ipsum in do commodo. Fugiat dolor ad velit Lorem cillum. Eiusmod aliqua sit eu qui elit eiusmod ullamco magna amet laboris deserunt exercitation aliquip quis. Ex ad labore in eiusmod sit do ea dolore esse.
+{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/3" %}
 
-Pariatur ut et sit laboris veniam veniam qui mollit sit labore est. Sit esse commodo tempor quis id enim ex incididunt. Magna est aute consequat et amet aliquip. Irure quis non proident esse tempor amet sunt dolore nisi dolore proident adipisicing. Cillum id et aliqua elit Lorem do duis. Commodo nisi qui consequat cupidatat ex adipisicing quis Lorem.
+We were a bit nervous about our tickets because we had used a bit of a workaround to get them. Usually, tickets aren't available to foreigners unless you buy them on a specific day, and they sell out quickly. But we managed to get ours by using a VPN to appear as if we were in Japan. We ordered the tickets from the Japanese Studio Ghibli website and picked them up at Lawson's at the start of the trip. Thankfully, our little trick worked, and we got in without much issue, although the Lawson attendant was definitely suspicious of Tristan when he couldn't remember how to write his name in Japanese. Luckily, our tickets were valid without any issues and we were suddenly stepping into the magical world of Studio Ghibli!
 
-Ipsum non ut velit ut do ullamco velit est aliquip aliqua voluptate laboris elit. In cillum ut aliquip aliqua sit enim veniam nostrud consectetur. Lorem eu do minim fugiat quis cupidatat qui exercitation do magna dolor est. Aliquip culpa aliquip nostrud sint elit. Qui et non esse consequat dolore mollit nulla est. Deserunt pariatur minim aliqua adipisicing. Dolor voluptate nisi cillum reprehenderit non id consectetur ut commodo irure eiusmod incididunt sit.
+{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/4" %}
 
+Inside the museum, it was like stepping into another world. There were three stories filled with history, storyboards, and models of the animators' rooms. We even got to watch a short film about a little spider that lives underwater. It was a magical experience, and after exploring everything the museum had to offer, we decided to get some lunch at the Straw Hat Cafe and headed to the gift shop to pick up some souvenirs. 
 
-Incididunt consequat minim ex ut in. Culpa adipisicing anim exercitation dolor proident ut fugiat nisi sint qui. Sunt enim mollit dolor culpa enim id elit enim.
-![Cuba 2](/assets/uploads/images/cuba-2.jpg)
+{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/5" %}
 
-# Tempor laboris proident amet aliquip
+After saying our goodbyes to the museum, we took a leisurely stroll through the park, heading back to our hotel. Along the way, we encountered a woman with her cat, which was a delightful sight. But the real stars of our walk were the ducks we spotted in the lake.
 
-## Friday, Feb 10
+There were so many of them, and they were doing the most fascinating things. One particular type of duck, black and white in color, would dive underwater to forage for food. It was amazing to watch them swim down, disappearing completely from sight, only to resurface moments later. They'd stay up for a few seconds, then dive back down again. It was like watching a live nature documentary!
 
-Tempor enim nostrud laborum sint aliquip nulla quis anim occaecat ut sunt. Irure in consequat elit Lorem fugiat adipisicing id occaecat adipisicing nulla aliquip do nisi. Excepteur elit id sint cupidatat ex. Dolore mollit cillum sunt labore ex minim. Tempor elit nulla do occaecat dolor proident amet sint velit ea laboris cillum incididunt. Ipsum anim ex aute Lorem amet esse duis officia dolore tempor officia.
+Then there were the other ducks that couldn't dive as deep. Instead, they'd tip their bodies, inverting themselves so that their feet were in the air. They'd bob around like that for a bit before righting themselves. It was hilarious and endearing at the same time.
 
-Est in aute est laboris proident tempor. Ex et cupidatat do occaecat aute pariatur. Minim fugiat consequat voluptate est sit commodo. Et adipisicing proident est anim culpa eiusmod officia nulla do aute. Dolore sit laborum consectetur deserunt ad adipisicing culpa in. Qui dolor quis tempor est. Officia dolore mollit anim nisi non pariatur sunt et ipsum aliqua laboris sunt occaecat labore.
+We must have spent a good 15 minutes just watching these ducks, completely enthralled by their antics. It was a simple, unexpected joy that added a special touch to our day. It's these little moments that make travel so rewarding, don't you think?
 
-Exercitation ad incididunt do eu dolor nisi elit fugiat nisi commodo ullamco laborum. Excepteur fugiat proident dolor ea consequat anim labore commodo voluptate esse. Laborum cillum sunt anim magna incididunt eu ut id aliquip. Eiusmod aliqua excepteur magna mollit excepteur ad cupidatat velit. Consectetur sunt velit sit anim ea aliquip occaecat pariatur. Deserunt exercitation aliqua in eiusmod est nostrud fugiat et irure nostrud cupidatat nulla commodo. Non voluptate reprehenderit quis qui cillum duis.
-![Steven](/assets/uploads/images/steven.jpg)
+On the way back, we visited a few vintage clothing stores, but didn't end up buying anything. We just enjoyed browsing and seeing what was on offer.
+
+We also stumbled upon another B-side label store, the same sticker store we had visited in Osaka. We did another round in there, just to make sure we weren't missing out on any cool stickers or t-shirts. The staff were really friendly and even gave us a business card. We didn't end up buying anything, but it was still a fun experience.
+
+Afterwards, we found our way back to the train station and headed back to our hotel in Shibuya. We decided to take it easy for the rest of the day, watching a few episodes of "Cook at all Costs", a show we had made a habit of making fun of during our trip, since it isn't the best show (or even a good one), but it was entertaining enough to keep us occupied.
+
+Later in the evening, we decided to try out a sushi place for dinner. It was a bit of a mission to find it, as it was located in a large department building and Google Maps wasn't very helpful in indicating which level it was on. After a bit of wandering around, we finally found it and joined the long line of people waiting to get in.
+
+The sushi place was quite an experience. The menu was on an iPad and when you ordered something, it would take a while for it to come out. But when it did, it would arrive on a little train, which was quite cute. Unfortunately, the vegetarian options were quite limited, which was a bit disappointing. But we still enjoyed the experience and the food was reasonably priced.
+
+{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/6" %}
+
+After dinner, we decided to take a stroll around Shibuya, taking in the night scenery. We even found a cool little food area under a bridge, which was a bit scary at first, but turned out to be quite interesting. We took some photos, got some snacks from a vending machine, and just enjoyed the rest of our evening.
+
+{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7" %}
+
+# Day 19: Asakusa
+The next day, we woke up early and decided to revisit Shibuya Sky, a tall building with a great view of the city. We had been there before during the day, but we wanted to see what it looked like at night. Unfortunately, the best spots were taken up by people with tripods, filming time lapses, so we didn't get to take many photos. But it was still a nice experience.
+
+We decided to visit Asakusa, a neighborhood we hadn't explored yet, and hoping to visit some temples and Tokyo Skytree. We took the train there and found ourselves in a bustling area full of shops and restaurants. We wandered around for a bit, taking in the sights and sounds, and then decided to grab some lunch. There we stumbled upon this little food stall that was selling these delicious looking skewers of dango, which is a type of Japanese dumpling made from rice flour. 
+
+After our little snack, we continued our exploration of Asakusa. We found ourselves in this bustling shopping street called Nakamise. It was lined with all sorts of shops selling traditional Japanese crafts, snacks, and souvenirs. We had a blast just wandering around, taking in the sights and sounds, and of course, doing a bit of shopping.
+
+[Part about the temple and the Skytree missing?]
+
+We decided to try out Japanese Domino's. We've been curious about it for a while, so we thought, why not? I ordered the Ultra Cheese and Sophie went for the Big Dack, a burger-themed pizza that's all about Big Mac energy. They can't call it that, of course, so they went with Big Dack. Sophie found the name so ridiculous that she refused to say it when ordering, instead just pointing at the picture on the menu. 
+
+After a short wait, we grabbed our pizzas and headed to the Skytree area. We found a free table in the surrounding gardens and had a little pizza picnic. It was cold and dark by then, but we didn't mind. Sophie even tried maple syrup on her pizza, which was nice but a bit too sweet by the end. My pizza was just fine - it was Domino's after all. 
+
+Since there are hardly any bins in Japan, we had to carry our pizza boxes around in our bag. We then climbed four giant sets of stairs to get to the ice skating rink. It was quite expensive - 4,200 yen for everything, including socks and gloves which we didn't have, and the skates and entry fee. But we thought it was worth it for the experience of skating near the Tokyo Skytree. 
+
+The staff were lovely and helped us find our shoe sizes. We got a 100 yen coin locker for our bag and shoes, and then put on our skates. My shoes were a bit too small, and I felt like a baby deer on the ice. It was so foreign and I felt like I was going to slip over at any time. Sophie hadn't skated for ages either, so she was also out of her element. 
+
+We tried to skate, but it was hard. Even the instructor came over to us and said that our shoes were too big around the ankles, which was dangerous. We tried to continue, but my ankles started hurting and Sophie was finding it too scary. After two laps of the small rink, we decided to call it a day. 
+
+We returned our skates, got our stuff back, and took some photos and videos with the Skytree before we left. On our way out, we discovered a Studio Ghibli store. It was so cool! Sophie got a Kiki's Delivery Service headband and we also got a Spirited Away surprise capsule toy. 
+
+We then took the subway back to Shibuya. It was a direct line from the Skytree, which was lucky. We even managed to get seats, which is a rare luxury in Japan. 
+
+Back in Shibuya, we stopped at a Family Mart near our hotel for some drinks. We sat outside the Family Mart one last time before we leave, just like we used to do when we first got here. 
+
+Back at the hotel, we had a nice bath and then sat down to record this podcast. We'll see you tomorrow or the next day for our final recap on this trip. Bye!
+
