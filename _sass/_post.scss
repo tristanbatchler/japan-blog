@@ -118,6 +118,10 @@
   display: flex;
   justify-content: center;
 
+  &.gallery-continuation {
+    margin-top: -20px;
+  }
+
   li {
     float: left; 
     display: block; 

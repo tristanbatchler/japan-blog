@@ -2,7 +2,12 @@
 {% assign folder = "/" | append: include.folder | append: "/" | replace: "//","/" %}
 
 {% comment %} Loop over all images in the site, and if its containing folder matches the supplied include.folder, then display said image {% endcomment %}
-<ul class="image-gallery">
+{% assign classname = "gallery-regular" %}
+{% if folder contains "-part-" %}
+    {% assign classname = "gallery-continuation" %}
+{% endif %}
+
+<ul class="image-gallery {{ classname }}">
     {% for file in site.static_files %}
         {% assign containingfolderpath = file.path | replace: file.name,"" | replace: "//","/" %}
 
@@ -11,15 +16,15 @@
                 {% assign filenameparts = file.path | split: "/" %}
                 {% assign filename = filenameparts | last | replace: file.extname,"" %}
                 {% assign imagepath = file.path | relative_url %}
+
                 <li>
                     <a href="{{ imagepath }}">
                         {% if site.url contains 'localhost' or site.url contains '127.0.0.1' %}
                             {% comment %} If the site is running locally, then just display the image as-is {% endcomment %}
-                            <img src="{{ imagepath }}" alt="{{ filename }}" />
+                            <img src="{{ imagepath }}" />
                         {% else %}
                             {% comment %} If the site is running on the Internet, then use the weserv.nl service to resize and optimize the image {% endcomment %}
-                            <img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ imagepath }}&h=300&output=jpg&q=85" alt="{{ filename }}" alt="{{ filename }}" />
-                            <span>{{ filename }}</span>
+                            <img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ imagepath }}&h=300&output=jpg&q=85" />
                         {% endif %}
                     </a>
                 </li>
