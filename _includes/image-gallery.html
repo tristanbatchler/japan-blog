@@ -26,6 +26,7 @@
                             {% comment %} If the site is running on the Internet, then use the weserv.nl service to resize and optimize the image {% endcomment %}
                             <img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ imagepath }}&h=300&output=jpg&q=85" />
                         {% endif %}
+                        <span><em>{{ include.caption }}</em></span>
                     </a>
                 </li>
             {% endif %}
