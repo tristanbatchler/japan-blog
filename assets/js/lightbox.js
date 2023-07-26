@@ -1,3 +1,20 @@
+var nextkey;
+var prevkey;
+
+function navigateGallery(event) {
+    var gallery_elements = document.querySelectorAll('a.gallery');
+    //Check if left key is pressed
+    if (event.keyCode == 37) {
+        gallery_elements[prevkey].click();
+    }
+    //Check if right key is pressed
+    else if (event.keyCode == 39) {
+        gallery_elements[nextkey].click();
+    }
+}
+
+
+
 function is_youtubelink(url) {
     var p = /^(?:https?:\/\/)?(?:www\.)?(?:youtu\.be\/|youtube\.com\/(?:embed\/|v\/|watch\?v=|watch\?.+&v=))((\w|-){11})(?:\S+)?$/;
     return (url.match(p)) ? RegExp.$1 : false;
@@ -41,42 +58,37 @@ function setGallery(el) {
     var elements = document.body.querySelectorAll(".gallery");
     elements.forEach(element => {
         element.classList.remove('gallery');
-	});
-	if(el.closest('ul, p')) {
-		var link_elements = el.closest('ul, p').querySelectorAll("a[class*='lightbox-']");
-		link_elements.forEach(link_element => {
-			link_element.classList.remove('current');
-		});
-		link_elements.forEach(link_element => {
-			if(el.getAttribute('href') == link_element.getAttribute('href')) {
-				link_element.classList.add('current');
-			}
-		});
-		if(link_elements.length>1) {
-			document.getElementById('lightbox').classList.add('gallery');
-			link_elements.forEach(link_element => {
-				link_element.classList.add('gallery');
-			});
-		}
-		var currentkey;
-		var gallery_elements = document.querySelectorAll('a.gallery');
-		Object.keys(gallery_elements).forEach(function (k) {
-			if(gallery_elements[k].classList.contains('current')) currentkey = k;
-		});
-		if(currentkey==(gallery_elements.length-1)) var nextkey = 0;
-		else var nextkey = parseInt(currentkey)+1;
-		if(currentkey==0) var prevkey = parseInt(gallery_elements.length-1);
-		else var prevkey = parseInt(currentkey)-1;
-		document.getElementById('next').addEventListener("click", function() {
-			gallery_elements[nextkey].click();
-		});
-		document.getElementById('prev').addEventListener("click", function() {
-			gallery_elements[prevkey].click();
-		});
-	}
+    });
+    if(el.closest('ul, p')) {
+        var link_elements = el.closest('ul, p').querySelectorAll("a[class*='lightbox-']");
+        link_elements.forEach(link_element => {
+            link_element.classList.remove('current');
+        });
+        link_elements.forEach(link_element => {
+            if(el.getAttribute('href') == link_element.getAttribute('href')) {
+                link_element.classList.add('current');
+            }
+        });
+        if(link_elements.length>1) {
+            document.getElementById('lightbox').classList.add('gallery');
+            link_elements.forEach(link_element => {
+                link_element.classList.add('gallery');
+            });
+        }
+        var currentkey;
+        var gallery_elements = document.querySelectorAll('a.gallery');
+        Object.keys(gallery_elements).forEach(function (k) {
+            if(gallery_elements[k].classList.contains('current')) currentkey = k;
+        });
+        nextkey = (currentkey==(gallery_elements.length-1)) ? 0 : parseInt(currentkey)+1;
+        prevkey = (currentkey==0) ? parseInt(gallery_elements.length-1) : parseInt(currentkey)-1;
+    }
 }
 
+
 document.addEventListener("DOMContentLoaded", function() {
+
+    document.addEventListener('keydown', navigateGallery);
 
     //create lightbox div in the footer
     var newdiv = document.createElement("div");
