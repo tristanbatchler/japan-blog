@@ -82,6 +82,12 @@ function setGallery(el) {
         });
         nextkey = (currentkey==(gallery_elements.length-1)) ? 0 : parseInt(currentkey)+1;
         prevkey = (currentkey==0) ? parseInt(gallery_elements.length-1) : parseInt(currentkey)-1;
+        document.getElementById('next').addEventListener("click", function() {
+			gallery_elements[nextkey].click();
+		});
+		document.getElementById('prev').addEventListener("click", function() {
+			gallery_elements[prevkey].click();
+		});
     }
 }
 
