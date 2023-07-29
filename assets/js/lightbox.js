@@ -1,20 +1,3 @@
-var nextkey;
-var prevkey;
-
-function navigateGallery(event) {
-    var gallery_elements = document.querySelectorAll('a.gallery');
-    //Check if left key is pressed
-    if (event.keyCode == 37) {
-        gallery_elements[prevkey].click();
-    }
-    //Check if right key is pressed
-    else if (event.keyCode == 39) {
-        gallery_elements[nextkey].click();
-    }
-}
-
-
-
 function is_youtubelink(url) {
     var p = /^(?:https?:\/\/)?(?:www\.)?(?:youtu\.be\/|youtube\.com\/(?:embed\/|v\/|watch\?v=|watch\?.+&v=))((\w|-){11})(?:\S+)?$/;
     return (url.match(p)) ? RegExp.$1 : false;
@@ -31,7 +14,6 @@ function is_vimeolink(url,el) {
             if (xmlhttp.status == 200) {
                 var response = JSON.parse(xmlhttp.responseText);
                 id = response.video_id;
-                console.log(id);
                 el.classList.add('lightbox-vimeo');
                 el.setAttribute('data-id',id);
 
@@ -60,42 +42,48 @@ function setGallery(el) {
         element.classList.remove('gallery');
     });
     if(el.closest('ul, p')) {
-        var link_elements = el.closest('ul, p').querySelectorAll("a[class*='lightbox-']");
-        link_elements.forEach(link_element => {
-            link_element.classList.remove('current');
-        });
-        link_elements.forEach(link_element => {
-            if(el.getAttribute('href') == link_element.getAttribute('href')) {
-                link_element.classList.add('current');
+        var currentkey;
+        var gallery_elements = document.querySelectorAll('a.lightbox-image');
+        
+        Object.keys(gallery_elements).forEach(function (k) {
+            if (gallery_elements[k].getAttribute('href') == el.getAttribute('href')) {
+                currentkey = k;
             }
         });
-        if(link_elements.length>1) {
-            document.getElementById('lightbox').classList.add('gallery');
-            link_elements.forEach(link_element => {
-                link_element.classList.add('gallery');
-            });
-        }
-        var currentkey;
-        var gallery_elements = document.querySelectorAll('a.gallery');
-        Object.keys(gallery_elements).forEach(function (k) {
-            if(gallery_elements[k].classList.contains('current')) currentkey = k;
-        });
+
         nextkey = (currentkey==(gallery_elements.length-1)) ? 0 : parseInt(currentkey)+1;
         prevkey = (currentkey==0) ? parseInt(gallery_elements.length-1) : parseInt(currentkey)-1;
-        document.getElementById('next').addEventListener("click", function() {
+        
+        var next_button = document.getElementById('next')
+        next_button.addEventListener("click", function() {
 			gallery_elements[nextkey].click();
 		});
-		document.getElementById('prev').addEventListener("click", function() {
-			gallery_elements[prevkey].click();
-		});
+		
+        var prev_button = document.getElementById('prev')
+        prev_button.addEventListener("click", function() {
+            gallery_elements[prevkey].click();
+        });
+
+        // Keyboard navigation
+        document.onkeydown = function(e) {
+            e = e || window.event;
+            if (e.keyCode == '37') {
+                // left arrow
+                gallery_elements[prevkey].click();
+            } else if (e.keyCode == '39') {
+                // right arrow
+                gallery_elements[nextkey].click();
+            } else if (e.keyCode == '27') {
+                // escape key
+                document.getElementById('lightbox').innerHTML = '';
+                document.getElementById('lightbox').style.display = 'none';
+            }
+        }
     }
 }
 
 
 document.addEventListener("DOMContentLoaded", function() {
-
-    document.addEventListener('keydown', navigateGallery);
-
     //create lightbox div in the footer
     var newdiv = document.createElement("div");
     newdiv.setAttribute('id',"lightbox");
@@ -149,8 +137,11 @@ document.addEventListener("DOMContentLoaded", function() {
     elements.forEach(element => {
         element.addEventListener("click", function(event) {
             event.preventDefault();
-            document.getElementById('lightbox').innerHTML = '<a id="close"></a><a id="next">&rsaquo;</a><a id="prev">&lsaquo;</a><div class="img" style="background: url(\''+this.getAttribute('href')+'\') center center / contain no-repeat;"><img src="'+this.getAttribute('href')+'"/></div>';
-            document.getElementById('lightbox').style.display = 'block';
+            var lb = document.getElementById('lightbox');
+            lb.innerHTML = '<a id="close"></a><a id="next">&rsaquo;</a><a id="prev">&lsaquo;</a><div class="img" style="background: url(\''+this.getAttribute('href')+'\') center center / contain no-repeat;"><img src="'+this.getAttribute('href')+'"/></div>';
+            lb.style.display = 'block';
+            document.getElementById('next').style.display = 'block';
+            document.getElementById('prev').style.display = 'block';
 
             setGallery(this);
         });
