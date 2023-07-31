@@ -5,28 +5,44 @@ tags: [tokyo, kyoto, osaka, hiroshima]
 image: /assets/uploads/images/hiroshima-hero.jpg
 ---
 
-# Day 12: Off to Hiroshima
-This morning, feeling a little dusty from the night before, we had an underwhelming hotel breakfast. We packed up, left for Hiroshima, and managed to snag aisle seats next to each other on the Shinkansen. 
-
-We had quite the adventure on our train ride to the hotel. We shared a tram carriage with a group of Australian travelers who looked like they were ready for a camping expedition with their massive backpacks. It was a hilarious sight, us foreigners taking up half the tram carriage. When we reached our stop, Tristan tried to tap off with his suica card, but we don't think it worked properly. He got off anyway, only to realize he had gotten off at the wrong stop. The whole tram watching, including a Japanese old man who laughed out loud. It was embarrassing, but hey, we don't know any of these people, so who cares?
-
-We finally made it to our hotel, which was right outside the tram stop. The hotel was fancy, with the reception on the top floor and a beautiful restaurant on the bottom floor. We were a bit early for check-in, but they let us in anyway since the room was ready. The check-in process was a bit lengthy, with the staff explaining all the rules and services, but we were just eager to get to our room.
+# Day 12: Off to Hiroshima • 広島市
+We woke up feeling a little dusty from the night before, which wasn't helped by an underwhelming hotel breakfast. We packed up, left for Hiroshima (広島市), and managed to snag aisle seats next to each other on the Shinkansen.
 
 {% include image-gallery.html folder="/assets/uploads/images/hiroshima/1" %}
 
+We had quite the adventure on our train ride to the hotel. We shared a tram carriage with a group of Australian travelers who looked like they were ready for a camping expedition with their massive backpacks. It was a hilarious sight, us foreigners taking up half the tram carriage. When we reached our stop, Tristan tried to tap off with his suica card, but we don't think it worked properly. He got off anyway, only to realize he had gotten off at the wrong stop. The whole tram watching, including a Japanese old man who laughed out loud.
+
+We finally made it to our hotel, [The Knot Hiroshima](https://hotel-the-knot.jp/hiroshima/en/), which was right outside the tram stop. The hotel was super fancy, with the reception on the top floor and a beautiful restaurant on the bottom floor. We were a bit early for check-in, but they let us in anyway since the room was ready. The check-in process was a bit lengthy, with the staff explaining all the rules and services, but we were just eager to get to our room.
+
 We were surprised when they asked us if we wanted a room on the top or bottom floor. We obviously chose the top floor, and boy, was it worth it! Our room was beautiful, and we had a stunning view of the Peace Dome from the 13th floor.
 
-Since we only had one full day in Hiroshima, we decided to visit the Peace Museum and the Peace Dome that afternoon. The museum was a sobering experience, with graphic images and stories of the impact of the bomb on Hiroshima and Japan. We also visited the gardens, the Cenotaph, the Children's Peace Monument, and the Eternal Flame. We didn't go up to the Peace Dome as the sun was setting, but we got a good view from across the river.
+{% include image-gallery.html folder="/assets/uploads/images/hiroshima/1.1" %}
+{% include image-gallery.html folder="/assets/uploads/images/hiroshima/1.1-part-2" %}
+
+Since we only had one full day in Hiroshima, we decided to visit the Peace Museum and the Peace Dome that afternoon. The museum was a short walk from our hotel, and the view of the river on our way was beautiful. There were many references to the bombings along the esplanade -- there were many paper cranes adorned on memorials and statues.
+
+{% include image-gallery.html folder="/assets/uploads/images/hiroshima/1.2" %}
+{% include image-gallery.html folder="/assets/uploads/images/hiroshima/1.2-part-2" %}
+{% include image-gallery.html folder="/assets/uploads/images/hiroshima/1.2-part-3" %}
+
+The museum was a sobering experience, with graphic images and stories of the impact of the bomb on Hiroshima and Japan. Around 140,000 people died in the bombing, and the museum did a great job of honoring their memory and educating visitors about the horrors of nuclear warfare.
+
+We also visited the gardens, the Cenotaph, the Children's Peace Monument, and the Eternal Flame. We didn't go up to the Peace Dome as the sun was setting, but we got a good view from across the river.
 
 {% include image-gallery.html folder="/assets/uploads/images/hiroshima/2" %}
+{% include image-gallery.html folder="/assets/uploads/images/hiroshima/2-part-2" %}
+{% include image-gallery.html folder="/assets/uploads/images/hiroshima/2-part-3" %}
+{% include image-gallery.html folder="/assets/uploads/images/hiroshima/2-part-4" %}
 
-On our way back, Sophie had a bit of a tumble and landed hard on her shins. It was painful, but she's okay. We also stopped by an orange juice stand and had some freshly squeezed orange juice, even though it was a bit pricey. We then realized we needed a HDMI cable to watch TV in our room, but unfortunately, we couldn't find one at the local 7-Eleven or Lawson.
+On our way back, Sophie had a bit of a tumble and landed hard on her shins. It was painful, but she was okay. Thankfully there was a random orange juice stand nearby, so we got some juice as consolation.
 
-# Day 13: Miyajima
+{% include image-gallery.html folder="/assets/uploads/images/hiroshima/2.1" %}
 
-Yesterday, we had a delightful dinner at our hotel's restaurant. Sophie opted for a margherita pizza while Tristan bravely tried spaghetti with oysters and bacon. We washed it all down with a limoncello gin and tonic for Sophie and a Moscow mule for Tristan. The food was delicious, but the timing was a bit off - the pizza arrived a good 15 minutes before the spaghetti. We didn't mind too much, though.
+For dinner we went to the italian restaurant in our hotel, [MORETHAN](https://hotel-the-knot.jp/hiroshima/en/morethan/). Soph opted for a margherita pizza while Tristan bravely tried spaghetti with oysters and bacon. We washed it all down with a limoncello gin and tonic for Soph and a Moscow mule for Tristan. The food was delicious, but the timing was a bit off - the pizza arrived a good 15 minutes before the spaghetti. We also shared a tiramisu for dessert -- it was beyond delicious and the perfect way to cap off our meal.
 
-After dinner, we headed to the hotel's rooftop bar, where we exchanged our room tokens for drinks and nibbles. We soaked in the vibes, enjoyed a few more drinks, and then headed back to our room. Tristan indulged in a long bath while Sophie admittedly fell asleep.
+After dinner, we headed to the hotel's rooftop bar, where we exchanged our room tokens for drinks and nibbles. It was a cool system -- tokens could be exchanged for money and drinks cost a certain amount of tokens, so you didn't have to worry about finding the right change. We soaked in the vibes, enjoyed a few more drinks, and then headed back to our room. Tristan indulged in a long bath while Soph promptly fell asleep.
+
+# Day 13: Miyajima/Itsukushima • 宮島
 
 {% include image-gallery.html folder="/assets/uploads/images/hiroshima/3" %}
 
