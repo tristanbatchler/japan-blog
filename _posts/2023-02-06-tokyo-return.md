@@ -5,49 +5,48 @@ tags:
   - tokyo
 image: /assets/uploads/images/tokyo-hero-2.jpg
 ---
-# Day 16: Back to Tokyo
+# Day 16: Back to Tōkyō
 
-When we woke up in our futons at the ryokan in Yudanaka, we planned to visit the onsen downstairs. Unfortunately, Sophie was too tired, and Tristan found out it didn't open until nine. So, we spent the morning relaxing, packing, drinking tea in the sunroom while admiring the clear view of the mountains. 
+When we woke up in our futons at the ryokan in Yamanouchi, we planned to visit the onsen downstairs. Sadly, it was closed (boo). So, we spent the morning relaxing, packing, drinking tea in the sunroom while admiring the clear view of the mountains.
 
-{% include image-gallery.html folder="/assets/uploads/images/yudanaka/7" %}
+{% include image-gallery.html folder="/assets/uploads/images/yamanouchi/7.1" %}
 
-When we checked out, the owner gave us adorable little ribbons with five yen coins to tie to our bags. We then headed to the station, but not before the owner insisted on taking a group photo with us. He set up a digital camera on a timer, and just as it was about to go off, he shouted "Monkey!" instead of "Cheese!" We were caught off guard and couldn't join in, but it was hilarious. 
+When we checked out, the owner gave us adorable little ribbons with five yen coins to tie to our bags. We then headed to the station, but not before the owner insisted on taking a group photo with us. He set up a digital camera on a timer, and just as it was about to go off, he shouted "Monkey!" instead of "Cheese!" We were caught off guard and couldn't join in, but it was hilarious. He didn't like how the first picture turned out so he took another one too!
 
-He even tried to sell us some t-shirts before we left. We politely declined, eager to continue our journey. We were relieved when he didn't offer to drive us to the station, as we weren't too keen on getting back into his death trap of a car. 
+He even tried to sell us some t-shirts before we left. We politely declined, eager to continue our journey. We were relieved when he didn't offer to drive us to the station, as we weren't too keen on getting back into his death trap of a car. We were excited to explore more of Tōkyō, but we were also a little sad to be leaving this weird and wonderful place behind.
 
-And so, our adventure continues. We're learning, laughing, and loving every minute of it. Stay tuned for more of our travel tales!
-
-As we prepare to leave Yudanaka, we're planning to have a chill night. We're looking forward to a quiet evening, perhaps with a good book or a movie, before we pack our bags and head off to our next destination. We're excited about the adventures that await us, but we're also a little sad to be leaving this weird and wonderful place behind.
-
-{% include image-gallery.html folder="/assets/uploads/images/yudanaka/8" %}
+{% include image-gallery.html folder="/assets/uploads/images/yamanouchi/8" %}
 
 After walking back to Yudanaka station for the last time, a friendly station attendant helped us purchase our tickets to Nagano. We had a bit of a wait for our train, so we grabbed some pizza buns and hot tea from Lawson. The line to board the train was a bit confusing, and we ended up switching lines a few times before finally boarding. 
 
-Once on the train, we found that Tristan's luggage fit in the overhead carry area, but Sophie's didn't. So, we had to sit separately, with Sophie next to her luggage. The train ride was a pleasant 45 minutes with some great views. We arrived in Nagano and navigated our way out of the station, got some Shinkansen tickets, and used our JR Pass for the last time. 
+Once on the train, we found that Tristan's luggage fit in the overhead carry area, but Soph's didn't. So, we had to sit separately, with Soph next to her luggage. The train ride was a pleasant 45 minutes with some great views. We revived the drawing game we made up before our flight to Japan a few weeks before -- Tristan drew a very accurate portrait of Dave Grohl in just one minute. It belongs in the Louvre! We arrived in Nagano and navigated our way out of the station, got some Shinkansen tickets, and used our JR Pass for the last time. 
 
-We had to settle for a three-seater as there were no two-seaters left. Thankfully, no one sat next to us, and we enjoyed a peaceful ride. We got off near Tokyo and transferred to another train to get to Shibuya. The ticketing system was a bit confusing, but we managed to figure it out and made it to Shibuya station without any issues. 
+{% include image-gallery.html folder="/assets/uploads/images/yamanouchi/8.1" %}
 
-Once we left the station, we found it quite busy, possibly due to some construction. Sophie started feeling a bit off, but we chalked it up to tiredness. We explored the area a bit, had a funny encounter with a security guard who seemed to want to stop us from walking down a particular street. To make matters worse, she was extremely confused when Tristan told her "we don't speak English" (he meant to say "Japanese"!), and then headed back to our hotel feeling silly and embarrassed. 
+We had to settle for a three-seater as there were no two-seaters left. Thankfully, no one sat next to us, and we enjoyed a peaceful ride. We got off near Tōkyō and transferred to another train to get to Shibuya (渋谷区). The ticketing system was a bit confusing, but we managed to figure it out and made it to Shibuya Station without any issues. 
 
-Sophie was feeling worse by this point, so she took a long bath and rested while Tristan unpacked. We decided to venture out again for some food and shopping. We visited Bic Camera, which was a bit overwhelming with its multiple levels and variety of products. We managed to find what we needed and then headed to a burger place called The Great Burger Stand. 
+The station was quite busy -- lots of construction pushed lots of people into only a few walkways, so it was tricky to navigate with our luggage. Soph started feeling a bit off, but we chalked it up to tiredness. We explored the area a bit, had a funny encounter with a security guard who seemed to want to stop us from walking down a particular street. To make matters worse, she was extremely confused when Tristan told her "we don't speak English" (he meant to say "Japanese"!).
+
+Soph was feeling worse by this point, so she took a long bath and rested while Tristan unpacked. We decided to venture out again for some food and shopping. We visited Bic Camera, which was a bit overwhelming with its multiple levels and variety of products. We managed to find what we needed and then headed to a burger place called The Great Burger Stand. 
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/1" %}
 
-The food was good, and we enjoyed some plant-based options. However, Sophie was feeling even worse by this point, so we headed back to the hotel. She had a rough night, and Tristan didn't sleep much either due to the small bed and the loud air conditioning. 
+The food was good, and we enjoyed some plant-based options. However, Soph was feeling even worse by this point, so we headed back to the hotel. She had a rough night, and Tristan didn't sleep much either due to the small bed and the loud air conditioning. 
 
 # Day 17: A day of rest
-The next day, Sophie was still not feeling well, and we had pre-booked tickets to Team Labs. Without thinking logically, we decided it would be better if Tristan went by himself even though we would have loved to experience it together. With a heavy heart, Tristan got ready and began to leave for Team Labs on his own. Meanwhile, Sophie had a moment of clarity and thought to check if we could rebook for Friday. It turns out we could, and we managed to rebook our tickets! We were really hoping Sophie would feel better by then, but we were both so relieved we avoided Tristan having to go alone. We missed out on the cost of the tickets, but we didn't mind one bit. 
+The next day, Soph was still not feeling well, and we had pre-booked tickets to Team Labs Planets. We decided it would be better if Tristan went by himself even though we would have loved to experience it together. With a heavy heart, Tristan got ready and began to leave for Team Labs on his own. Meanwhile, Soph had a moment of clarity and thought to check if we could rebook for Friday morning. It turns out we could, and we managed to rebook our tickets! We were really hoping Soph would feel better by then, but we were both so relieved we avoided Tristan having to go alone. We weren't able to get a refund for our original tickets, but it was a small price to pay to ensure we could go together.
 
-We decided to stay in and watch some movies. We decided to stay in and watch New People, Chef, and then Julie and Julia. It was a pretty chill day, we didn't interact much with anyone else. We did manage to venture out for a short walk to Macca's, grabbed a meal, split it between us, and enjoyed it by a nearby stream. Sophie was starting to feel a bit better, but we didn't want to push it. 
+We decided to stay in and watch some movies. We decided to stay in and watch New People, Chef, and then Julie and Julia. Japanese Netflix is very weird.
+
+It was a pretty chill day, we didn't interact much with anyone else. We did manage to venture out for a short walk to Macca's for lunch and enjoyed it next to a nearby stream. Soph was starting to feel a bit better, but we didn't want to push it. 
 
 # Day 18: Studio Ghibli Museum
-The next day, we woke up early because we had tickets to the Studio Ghibli Museum. Sophie was feeling much better, so we grabbed our favorite breakfast from Doutor - cheese toast, apple juice for me, and a hot coffee for Tristan. We then realized we needed our tickets to get into the museum, which were hidden amongst our pile of receipts. After a bit of a scramble, we found them and headed off to Shibuya Station.
-
-{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/2" %}
+The next day, we woke up early because we had tickets to the Studio Ghibli Museum. Soph was finally on the mend, so we grabbed our favorite breakfast from Doutor. We then realized we needed our tickets to get into the museum, which were hidden amongst our pile of receipts. After a bit of a scramble, we found them and headed off to Shibuya Station.
 
 After a nice walk through a park in Mitaka, we finally made it to the museum, and we were so excited when I saw the giant Totoro in the ticket booth. There was already a line of excited people waiting to get in, and the energy was infectious.
 
-{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/3" %}
+{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/2" %}
+{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/2-part-2" %}
 
 We were a bit nervous about our tickets because we had used a bit of a workaround to get them. Usually, tickets aren't available to foreigners unless you buy them on a specific day, and they sell out quickly. But we managed to get ours by using a VPN to appear as if we were in Japan. We ordered the tickets from the Japanese Studio Ghibli website and picked them up at Lawson's at the start of the trip. Thankfully, our little trick worked, and we got in without much issue, although the Lawson attendant was definitely suspicious of Tristan when he couldn't remember how to write his name in Japanese. Luckily, our tickets were valid without any issues and we were suddenly stepping into the magical world of Studio Ghibli!
 
@@ -90,17 +89,17 @@ After our little snack, we continued our exploration of Asakusa. We found oursel
 
 [Part about the temple and the Skytree missing?]
 
-We decided to try out Japanese Domino's. We've been curious about it for a while, so we thought, why not? I ordered the Ultra Cheese and Sophie went for the Big Dack, a burger-themed pizza that's all about Big Mac energy. They can't call it that, of course, so they went with Big Dack. Sophie found the name so ridiculous that she refused to say it when ordering, instead just pointing at the picture on the menu. 
+We decided to try out Japanese Domino's. We've been curious about it for a while, so we thought, why not? I ordered the Ultra Cheese and Soph went for the Big Dack, a burger-themed pizza that's all about Big Mac energy. They can't call it that, of course, so they went with Big Dack. Soph found the name so ridiculous that she refused to say it when ordering, instead just pointing at the picture on the menu. 
 
-After a short wait, we grabbed our pizzas and headed to the Skytree area. We found a free table in the surrounding gardens and had a little pizza picnic. It was cold and dark by then, but we didn't mind. Sophie even tried maple syrup on her pizza, which was nice but a bit too sweet by the end. My pizza was just fine - it was Domino's after all. 
+After a short wait, we grabbed our pizzas and headed to the Skytree area. We found a free table in the surrounding gardens and had a little pizza picnic. It was cold and dark by then, but we didn't mind. Soph even tried maple syrup on her pizza, which was nice but a bit too sweet by the end. My pizza was just fine - it was Domino's after all. 
 
 Since there are hardly any bins in Japan, we had to carry our pizza boxes around in our bag. We then climbed four giant sets of stairs to get to the ice skating rink. It was quite expensive - 4,200 yen for everything, including socks and gloves which we didn't have, and the skates and entry fee. But we thought it was worth it for the experience of skating near the Tokyo Skytree. 
 
-The staff were lovely and helped us find our shoe sizes. We got a 100 yen coin locker for our bag and shoes, and then put on our skates. My shoes were a bit too small, and I felt like a baby deer on the ice. It was so foreign and I felt like I was going to slip over at any time. Sophie hadn't skated for ages either, so she was also out of her element. 
+The staff were lovely and helped us find our shoe sizes. We got a 100 yen coin locker for our bag and shoes, and then put on our skates. My shoes were a bit too small, and I felt like a baby deer on the ice. It was so foreign and I felt like I was going to slip over at any time. Soph hadn't skated for ages either, so she was also out of her element. 
 
-We tried to skate, but it was hard. Even the instructor came over to us and said that our shoes were too big around the ankles, which was dangerous. We tried to continue, but my ankles started hurting and Sophie was finding it too scary. After two laps of the small rink, we decided to call it a day. 
+We tried to skate, but it was hard. Even the instructor came over to us and said that our shoes were too big around the ankles, which was dangerous. We tried to continue, but my ankles started hurting and Soph was finding it too scary. After two laps of the small rink, we decided to call it a day. 
 
-We returned our skates, got our stuff back, and took some photos and videos with the Skytree before we left. On our way out, we discovered a Studio Ghibli store. It was so cool! Sophie got a Kiki's Delivery Service headband and we also got a Spirited Away surprise capsule toy. 
+We returned our skates, got our stuff back, and took some photos and videos with the Skytree before we left. On our way out, we discovered a Studio Ghibli store. It was so cool! Soph got a Kiki's Delivery Service headband and we also got a Spirited Away surprise capsule toy. 
 
 We then took the subway back to Shibuya. It was a direct line from the Skytree, which was lucky. We even managed to get seats, which is a rare luxury in Japan. 
 

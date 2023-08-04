@@ -18,7 +18,7 @@ Nagoya was a bit of a whirlwind. We were hungry and decided to grab some Maccas.
 
 {% include image-gallery.html folder="/assets/uploads/images/yamanouchi/1.2" caption="Tristan couldn't resist the Samurai Burger." %}
 
-After our Maccas adventure, we hopped on another train to Nagano. We had a bit of a funny moment when an older lady sitting next to us decided to move seats after we started chatting. We also had a bit of a panic when we couldn't find our train, but a kind local helped us out. 
+After our Maccas adventure, we hopped on another train to Nagano (長野). We had a bit of a funny moment when an older lady sitting next to us decided to move seats after we started chatting. We also had a bit of a panic when we couldn't find our train, but a kind local helped us out. 
 
 {% include image-gallery.html folder="/assets/uploads/images/yamanouchi/1.3" %}
 
@@ -80,32 +80,40 @@ The hike was a bit challenging due to the icy and snowy path, but we made it to 
 {% include image-gallery.html folder="/assets/uploads/images/yamanouchi/3.1" %}
 {% include image-gallery.html folder="/assets/uploads/images/yamanouchi/3.1-part-2" %}
 
-One very strange thing we saw on the walk up to the monkey park was a man, fully nude, bathing in an outdoor hot spring which belonged to one of the ryokans in a small village along the way. The monkeys had full access to the water so it was probably filled with god knows what -- we were extremely concerned about the hygiene of the water, but also kind of impressed by this absolute chad. Despite this weird sight, we enjoyed the hike up once it became flat.
+One very strange thing we saw on the walk up to the monkey park was a man, fully nude, bathing in an outdoor hot spring which belonged to one of the ryokans in a small village along the way. The monkeys had full access to the water so it was probably filled with god knows what -- we were concerned about the hygiene of the water, but also kind of impressed by this absolute chad. Despite this odd sight, we enjoyed the hike up once it became flat.
 
 {% include image-gallery.html folder="/assets/uploads/images/yamanouchi/4" %}
 {% include image-gallery.html folder="/assets/uploads/images/yamanouchi/4-part-2" %}
 {% include image-gallery.html folder="/assets/uploads/images/yamanouchi/4-part-3" %}
 
-After purchasing our tickets to the park, the sight of the monkeys was worth all the confusion and challenges of the day. They were everywhere, foraging in the snow, climbing on the netting on the side of the mountains, and of course, bathing in the hot springs. We were able to get some great photos and videos of these adorable creatures.
+After purchasing our tickets to the park, the sight of the monkeys was worth all the confusion and challenges of the day. They were everywhere, foraging in the snow, climbing on the netting on the side of the mountains, and of course, bathing in the hot springs. We were able to get some great photos and videos of these adorable creatures, and were a bit envious of the luxury they enjoyed.
 
 {% include image-gallery.html folder="/assets/uploads/images/yamanouchi/5" %}
+{% include image-gallery.html folder="/assets/uploads/images/yamanouchi/5-part-2" %}
+{% include image-gallery.html folder="/assets/uploads/images/yamanouchi/5-part-3" %}
+{% include image-gallery.html folder="/assets/uploads/images/yamanouchi/5-part-4" %}
 
-After spending some time with the monkeys, we made our way back down the mountain. We stopped at the cafe again for some ramen and apple pie, and then caught the bus back to our accommodation. This time, we had to pay with coins, but we had figured out the system by then.
+After spending some time with the monkeys, we made our way back down the mountain.
 
 {% include image-gallery.html folder="/assets/uploads/images/yamanouchi/6" %}
+
+We stopped at the cafe again for some ramen and apple pie, and then caught the bus back to our accommodation. This time, we had to pay with coins, but we had figured out the system by then. Back at our room, we enjoyed some time wearing a traditional yukata and drinking tea while watching the sunset.
+
+{% include image-gallery.html folder="/assets/uploads/images/yamanouchi/6.1" %}
+{% include image-gallery.html folder="/assets/uploads/images/yamanouchi/6.1-part-2" %}
 
 We had spotted a restaurant earlier that day, Isekai, and decided to give it a try. The menu outside looked promising, with vegetable tempura and other tantalizing dishes. But, as first-time travelers, we were a bit nervous about what to expect inside. 
 
-We were unsure about the shoe etiquette, a common practice in Japan. In his best broken Japanese attempt, Tristan asked some locals who were having a cigarette outside the restaurant, if shoes were okay (kutsu wa daijoubu desu ka?), and they assured us they were. But as soon as we stepped in, we saw everyone's shoes off! We quickly asked the owner, who kindly reassured us that shoes were fine in the wooden floorboard area. Phew! 
+We were unsure about the shoe etiquette, a common practice in Japan. In his best broken Japanese attempt, Tristan asked some locals who were having a cigarette outside the restaurant, if shoes were okay (Kutsu wa daijōbudesuka, 靴は大丈夫ですか), and they assured us they were. But as soon as we stepped in, we saw everyone's shoes off! We quickly asked the owner, who kindly reassured us that shoes were fine in the wooden floorboard area. Phew! 
 
-We settled down at the bar, ready to dive into the extensive menu. We ordered a variety of potato and chicken dishes, excited to try authentic Japanese cuisine. But then, a funny thing happened. We were sitting next to each other on the same bench when the owner gestured for one of us to move to the other bench. We were a bit confused, but we complied. We ended up sitting the same distance apart, just on separate benches. It felt a bit odd, but the owner probably just wanted to make sure we were comfortable given we are a bit bigger than the average Japanese person.
+We settled down at the bar, ready to dive into the extensive menu. We were sitting next to each other on the same bench when the owner gestured for one of us to move to the other bench. We were a bit confused, but we complied. We ended up sitting the same distance apart, just on separate benches. It felt a bit odd, but the owner probably just wanted to make sure we were comfortable given we take up a bit more space than the average Japanese person.
 
-The food was absolutely delicious, and we washed it down with a couple of drinks. We were surrounded by a lively group of locals, their laughter and chatter adding to the warm atmosphere. We didn't understand a word, but we loved being part of it. 
+We ordered a variety of potato and chicken dishes, excited to try authentic Japanese cuisine. The food was absolutely delicious, and we washed it down with a couple of drinks. We were surrounded by a lively group of locals, their laughter and chatter adding to the warm atmosphere. We didn't understand a word, but we loved being part of it. 
+
+{% include image-gallery.html folder="/assets/uploads/images/yamanouchi/6.2" %}
 
 After a hearty meal, we made our way back to our accommodation, navigating the icy roads. We were greeted by the owner, who asked about our checkout time. We weren't sure yet, so we decided to call it a night and figure it out in the morning. 
 
-{% include image-gallery.html folder="/assets/uploads/images/yamanouchi/7" %}
+{% include image-gallery.html folder="/assets/uploads/images/yamanouchi/7" caption="This shower was narrower than it looks." %}
 
-Back at our accommodation, we relaxed and reflected on our day. The Snow Monkeys were an amazing experience, but we agreed that unless you're an experienced skier, Yudanaka might not be the best place for a visit. We're city slickers at heart, and we're looking forward to getting back to the hustle and bustle of Tokyo. But for those who love snow and want to experience it, Yudanaka is a good place.
-
-{% include image-gallery.html folder="/assets/uploads/images/yamanouchi/6" %}
+We loved seeing the snow monkeys and experiencing a snowy town, but we wouldn't recommend staying overnight in Yamanouchi unless you're an experienced skier or have someone in your group that knows what they're doing. In hindsight we would've taken an extra day in Hiroshima instead and just visited the snow monkeys on a day trip. If you're planning a similar trip, we would recommend staying in Nagano instead and visiting the monkeys on a day trip. You could even do a day trip from Tōkyō, but it would be a long day.
