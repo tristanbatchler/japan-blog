@@ -41,46 +41,54 @@ We decided to stay in and watch some movies. We decided to stay in and watch New
 It was a pretty chill day, we didn't interact much with anyone else. We did manage to venture out for a short walk to Macca's for lunch and enjoyed it next to a nearby stream. Soph was starting to feel a bit better, but we didn't want to push it. 
 
 # Day 18: Studio Ghibli Museum
-The next day, we woke up early because we had tickets to the Studio Ghibli Museum. Soph was finally on the mend, so we grabbed our favorite breakfast from Doutor. We then realized we needed our tickets to get into the museum, which were hidden amongst our pile of receipts. After a bit of a scramble, we found them and headed off to Shibuya Station.
+The next day, we woke up early because we had tickets to the Ghibli Museum (Mitaka no Mori Jiburi Bijutsukan, 三鷹の森ジブリ美術館). Soph was finally on the mend, so we grabbed our favorite breakfast from Doutor. We then realized we needed our tickets to get into the museum, which were hidden amongst our pile of receipts. After a bit of a scramble, we found them and headed off to Shibuya Station.
 
 After a nice walk through a park in Mitaka, we finally made it to the museum, and we were so excited when I saw the giant Totoro in the ticket booth. There was already a line of excited people waiting to get in, and the energy was infectious.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/2" %}
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/2-part-2" %}
 
-We were a bit nervous about our tickets because we had used a bit of a workaround to get them. Usually, tickets aren't available to foreigners unless you buy them on a specific day, and they sell out quickly. But we managed to get ours by using a VPN to appear as if we were in Japan. We ordered the tickets from the Japanese Studio Ghibli website and picked them up at Lawson's at the start of the trip. Thankfully, our little trick worked, and we got in without much issue, although the Lawson attendant was definitely suspicious of Tristan when he couldn't remember how to write his name in Japanese. Luckily, our tickets were valid without any issues and we were suddenly stepping into the magical world of Studio Ghibli!
+We were a bit nervous about our tickets because we had used a bit of a workaround to get them. Usually, tickets aren't available to foreigners unless you buy them on a specific day, and they sell out quickly. But we managed to get ours by using a VPN to appear as if we were in Japan. We ordered the tickets from the Japanese Studio Ghibli website and picked them up at Lawson's at the start of the trip. Thankfully, our little trick worked, and we got in without much issue. And just like that, we were stepping into the magical world of Studio Ghibli!
+
+Inside the museum, it was like stepping into another world. Sadly we couldn't take any photos inside, but there were three stories filled with early drawings, storyboards, and models of the animators' rooms. We even got to watch an exclusive short film about a little spider that lives underwater called Mon Mon the Water Spider (Mizugumo Monmon, 水グモもんもん). You can only watch it at the museum, and it had no words so anyone could enjoy it, no matter their background. It was a truly unforgettable experience. We were allowed to take pictures on the roof, which had an enormous statue of the giant robot gardener from Castle in the sky.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/4" %}
 
-Inside the museum, it was like stepping into another world. There were three stories filled with history, storyboards, and models of the animators' rooms. We even got to watch a short film about a little spider that lives underwater. It was a magical experience, and after exploring everything the museum had to offer, we decided to get some lunch at the Straw Hat Cafe and headed to the gift shop to pick up some souvenirs. 
+After exploring everything the museum had to offer (and spending way too much money at the gift shop), we decided to get some lunch at the Straw Hat Cafe. It's common in Japan to see plastic renditions of everything on a restaurant's menu, but the museum took it one step further and had knitted versions of their dishes. It was so cute and quirky!
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/5" %}
+{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/5-part-2" %}
+{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/5-part-3" %}
 
-After saying our goodbyes to the museum, we took a leisurely stroll through the park, heading back to our hotel. Along the way, we encountered a woman with her cat, which was a delightful sight. But the real stars of our walk were the ducks we spotted in the lake.
+After saying our goodbyes to the museum, we took a leisurely stroll through the park, heading back to our hotel. Along the way, we encountered a woman just casually walking her cat. But the real stars of our walk were the ducks we spotted in the lake.
 
-There were so many of them, and they were doing the most fascinating things. One particular type of duck, black and white in color, would dive underwater to forage for food. It was amazing to watch them swim down, disappearing completely from sight, only to resurface moments later. They'd stay up for a few seconds, then dive back down again. It was like watching a live nature documentary!
+{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/5.1" %}
 
-Then there were the other ducks that couldn't dive as deep. Instead, they'd tip their bodies, inverting themselves so that their feet were in the air. They'd bob around like that for a bit before righting themselves. It was hilarious and endearing at the same time.
+We were enthralled watching them swim underwater for food. It was so cool to watch them swim down, disappearing completely, only to resurface with a lil snack. They'd stay up for a few seconds, then dive back down again. Then there were the other ducks that couldn't dive as deep -- they'd bob around like that for a good five seconds or so, and then resurface (and presumably ask their Mum if she saw that). We must have spent a good 15 minutes just watching these ducks, completely captivated. It was a simple, unexpected joy that made our day just that little bit better. It's the little things. We don't deserve ducks!!
 
-We must have spent a good 15 minutes just watching these ducks, completely enthralled by their antics. It was a simple, unexpected joy that added a special touch to our day. It's these little moments that make travel so rewarding, don't you think?
+We walked through the park on our way back to the station. It was a really charming park and lots of people were out enjoying it despite it being a bit of a dreary day.
 
-On the way back, we visited a few vintage clothing stores, but didn't end up buying anything. We just enjoyed browsing and seeing what was on offer.
+{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/5.2" %}
 
-We also stumbled upon another B-side label store, the same sticker store we had visited in Osaka. We did another round in there, just to make sure we weren't missing out on any cool stickers or t-shirts. The staff were really friendly and even gave us a business card. We didn't end up buying anything, but it was still a fun experience.
+On the way back, we visited a few vintage clothing stores, but didn't end up buying anything. We just enjoyed browsing and seeing what was on offer. We also stumbled upon another B-side label store, the same sticker store we had visited in Ōsaka. We did another round in there, just to make sure we weren't missing out on any cool stickers or t-shirts. The staff were really friendly and even gave us a business card, which is a kind gesture in Japan. We trotted back to the train station and headed back to our hotel in Shibuya.
 
-Afterwards, we found our way back to the train station and headed back to our hotel in Shibuya. We decided to take it easy for the rest of the day, watching a few episodes of "Cook at all Costs", a show we had made a habit of making fun of during our trip, since it isn't the best show (or even a good one), but it was entertaining enough to keep us occupied.
+{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/5.3" %}
 
-Later in the evening, we decided to try out a sushi place for dinner. It was a bit of a mission to find it, as it was located in a large department building and Google Maps wasn't very helpful in indicating which level it was on. After a bit of wandering around, we finally found it and joined the long line of people waiting to get in.
+We decided to take it easy for the rest of the day, watching a few episodes of "Cook at all Costs" on Netflix. Basically, three contestants cook meals at different costs from their own budget and whoever cooks the best meal wins the money they have left. It was a bit gimmicky, but it was entertaining enough to keep us occupied.
 
-The sushi place was quite an experience. The menu was on an iPad and when you ordered something, it would take a while for it to come out. But when it did, it would arrive on a little train, which was quite cute. Unfortunately, the vegetarian options were quite limited, which was a bit disappointing. But we still enjoyed the experience and the food was reasonably priced.
+We emerged from our hotel in the evening to secure some grub. We weren't super hungry, so we explored Shibuya and took the opportunity to take some nighttime snaps in the city.
+
+{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/5.4" %}
+
+After working up an appetite, we decided to try out a sushi place for dinner that came highly recommended on Happy Cow (a vegan food app). It was a bit of a mission to find it -- it was nestled in a large department building and it was tricky finding what level it was on. After a bit of wandering around, we finally found it and joined the long line of people waiting to get in.
+
+After waiting around 45 minutes, we were in. It was quite an experience -- the menu was on an iPad and when you ordered something, it would take a while for it to come out. But when it did, it would arrive on a little train that looked like a shinkansen -- adorbs. Unfortunately, the vegetarian options were quite limited despite Happy Cow's recommendation, which was disappointing. We ate what we could and cut our losses.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/6" %}
 
-After dinner, we decided to take a stroll around Shibuya, taking in the night scenery. We even found a cool little food area under a bridge, which was a bit scary at first, but turned out to be quite interesting. We took some photos, got some snacks from a vending machine, and just enjoyed the rest of our evening.
+We strolled around Shibuya a little longer before turning it in for the night. We were keen for our last full day in Japan. We were putting the mixed into mixed feelings about it -- we were a bit sad that our holiday was coming to an end, but we were also ready to return to our routine back in Aus (and our orange guy, of course).
 
-{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7" %}
-
-# Day 19: Asakusa
+# Day 19: Asakusa (浅草)
 The next day, we woke up early and decided to revisit Shibuya Sky, a tall building with a great view of the city. We had been there before during the day, but we wanted to see what it looked like at night. Unfortunately, the best spots were taken up by people with tripods, filming time lapses, so we didn't get to take many photos. But it was still a nice experience.
 
 We decided to visit Asakusa, a neighborhood we hadn't explored yet, and hoping to visit some temples and Tokyo Skytree. We took the train there and found ourselves in a bustling area full of shops and restaurants. We wandered around for a bit, taking in the sights and sounds, and then decided to grab some lunch. There we stumbled upon this little food stall that was selling these delicious looking skewers of dango, which is a type of Japanese dumpling made from rice flour. 
