@@ -100,7 +100,7 @@ We ventured out to Akihabara (秋葉原) to check it out in the daytime. We visi
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/6.2" caption="Hair 'cut'...seems legit." %}
 
-We decided to visit Asakusa (浅草), a neighborhood we hadn't explored yet, and hoping to visit some temples and Tokyo Skytree (東京スカイツリー). We took the train there and found ourselves in a bustling area full of shops and restaurants. It was chock-full of people because we were near Sensō-ji (浅草寺), Tokyo's oldest temple and one of its most significant. After wandering around we came across it and were captivated by its beauty, so we decided to explore it.
+We decided to visit Asakusa (浅草), a neighborhood we hadn't explored yet, and hoping to visit some temples and Tōkyō Skytree (東京スカイツリー). We took the train there and found ourselves in a bustling area full of shops and restaurants. It was chock-full of people because we were near Sensō-ji (浅草寺), Tokyo's oldest temple and one of its most significant. After wandering around we came across it and were captivated by its beauty, so we decided to explore it.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7" %}
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7-part-2" %}
@@ -112,7 +112,7 @@ After our little snack, we continued our exploration of Asakusa. We found oursel
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7.1" %}
 
-We explored the area for a bit and decided to cross the river and visit the Tokyo Skytree. It was a gorgeous day so we soaked up the sun on the walk (which was longer than expected).
+We explored the area for a bit and decided to cross the river and visit the Tōkyō Skytree. It was a gorgeous day so we soaked up the sun on the walk (which was longer than expected).
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7.2" %}
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7.2-part-2" %}
@@ -124,7 +124,7 @@ We eventually made it to the Skytree. It was enormous -- it absolutely towered o
 
 Before we knew it, it was time to head up. We were delighted to learn that there were four elevators, and each had its own season theme. We went up in the spring elevator and later on came down in the winter elevator. They were huge and fast -- they could fit up to 40 people and had a max speed of 600m per minute, the fastest elevators in Japan. 
 
-There are no words for the views that greeted us as we entered the Tembo Deck. Tokyo is an enormous city, and even though visibility was high that day, we couldn't see the end of it. Sometimes you can get lucky and see Mt. Fuji, but it was juuust too hazy for us. The deck wraps 360° around the building, so we could see the city from just about every angle. It was breathtaking.
+There are no words for the views that greeted us as we entered the Tembo Deck. Tōkyō is an enormous city, and even though visibility was high that day, we couldn't see the end of it. Sometimes you can get lucky and see Mt. Fuji, but it was juuust too hazy for us. The deck wraps 360° around the building, so we could see the city from just about every angle. It was breathtaking.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7.4" %}
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7.4-part-2" %}
@@ -141,7 +141,7 @@ After spending a little more time taking in the views, we headed back down to ea
 
 After a short wait, we grabbed our pizzas and headed to the Skytree area. We found a free table in the surrounding gardens and had a little pizza picnic. It was cold and dark by then, but we didn't mind. Soph even tried maple syrup on her pizza, which was nice but a bit too sweet by the end.
 
-Since there are hardly any bins in Japan, we had to carry our pizza boxes around in our bag. We then climbed four giant sets of stairs to get to the ice skating rink. It was quite expensive - ¥4,200 for everything, including socks and gloves which we didn't have, and the skates and entry fee. But we realised we only had one chance in our lives to ice skate at night at the base of the Tokyo Skytree, so we went for it.
+Since there are hardly any bins in Japan, we had to carry our pizza boxes around in our bag. We then climbed four giant sets of stairs to get to the ice skating rink. It was quite expensive - ¥4,200 for everything, including socks and gloves which we didn't have, and the skates and entry fee. But we realised we only had one chance in our lives to ice skate at night at the base of the Tōkyō Skytree, so we went for it.
 
 The staff were lovely and helped us find our shoe sizes. We got a ¥100 coin locker for our bag and shoes, and then put on our skates. To say we were humbled by the ice is an understatement. Tristan's shoes didn't fit right so after a lap or two he was in pain. Soph on the other hand won the award for the worst skater of the day. She only managed one lap and was holding on to the side of the rink the entire time. The poor instructor was trying to help, but it just was not gonna happen. After two laps of the small rink, we decided to call it a day.
 
@@ -151,7 +151,7 @@ We returned our skates, got our stuff back, and took some photos and videos with
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7.8" %}
 
-On our way out, we discovered a random Studio Ghibli store (as if we needed an excuse to get more Ghibli-themed souvenirs). The store itself was super cool -- it had a cat bus in the window with its eyes lit up and a giant Totoro inside. It was full of all sorts of Ghibli merch, and we put our souvenirs budget to good use. Soph got a Kiki's Delivery Service headband and we also got a Spirited Away surprise capsule toy (a very restrained haul). We even spotted a Sizzler on the way out across the river! So you're telling me that Toowoomba's Sizzler had to shut down, but the one in Tokyo is alive and well? What a bizarre world we live in.
+On our way out, we discovered a random Studio Ghibli store (as if we needed an excuse to get more Ghibli-themed souvenirs). The store itself was super cool -- it had a cat bus in the window with its eyes lit up and a giant Totoro inside. It was full of all sorts of Ghibli merch, and we put our souvenirs budget to good use. Soph got a Kiki's Delivery Service headband and we also got a Spirited Away surprise capsule toy (a very restrained haul). We even spotted a Sizzler on the way out across the river! So you're telling me that Toowoomba's Sizzler had to shut down, but the one in Tōkyō is alive and well? What a bizarre world we live in.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7.9" %}
 
@@ -251,3 +251,5 @@ Before we knew it, we were on the plane home. We felt so grateful to experience 
 After a nine-hour flight with minimal sleep and bare-minimum food, we eventually made it to the Gold Coast Airport. We were one of the first people off the plane so we only had to wait in the customs line for about 20 minutes. We used a self-serve machine to process our passports and paperwork, and then we were on our way to collect our bags. They came out pretty quickly, and we wasted no time getting the hell out of the last transport-related building of our journey. Soph's Dad wasn't too far behind and picked us up in no time.
 
 We celebrated being back on home soil with a Maccas breaky -- god it was good. Dad drove us home and we bored him with endless stories (he took it like a champ), and he dropped us off to pick up Tristan's car from Corey's place. We hopped in and drove home where we were finally reunited with our orange guy.
+
+{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/14" %}
