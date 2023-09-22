@@ -7,11 +7,11 @@ permalink:           /:title
 plugins:             [jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Japan23"
-description:	       "Tristan & Sophie's travel journal for their trip to Japan in 2023"
+title:		           "Notes from Nihon"
+description:	       "Tristan & Sophie's travel journal from their trip to Japan in 2023"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
 
-url: https://japan.tbat.me/
+url: https://japan.tbat.me

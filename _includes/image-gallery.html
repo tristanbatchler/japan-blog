@@ -9,26 +9,28 @@
 
 <ul class="image-gallery {{ classname }}">
     {% for file in site.static_files %}
-        {% assign containingfolderpath = file.path | replace: file.name,"" | replace: "//","/" %}
+        {% if file.path contains include.folder %}
+            {% assign containingfolderpath = file.path | replace: file.name,"" | replace: "//","/" %}
 
-        {% if containingfolderpath == folder %}
-            {% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
-                {% assign filenameparts = file.path | split: "/" %}
-                {% assign filename = filenameparts | last | replace: file.extname,"" %}
-                {% assign imagepath = file.path | relative_url %}
+            {% if containingfolderpath == folder %}
+                {% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
+                    {% assign filenameparts = file.path | split: "/" %}
+                    {% assign filename = filenameparts | last | replace: file.extname,"" %}
+                    {% assign imagepath = file.path | relative_url %}
 
-                <li>
-                    <a href="{{ imagepath }}">
-                        {% if site.url contains 'localhost' or site.url contains '127.0.0.1' %}
-                            {% comment %} If the site is running locally, then just display the image as-is {% endcomment %}
-                            <img src="{{ imagepath }}" />
-                        {% else %}
-                            {% comment %} If the site is running on the Internet, then use the weserv.nl service to resize and optimize the image {% endcomment %}
-                            <img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ imagepath }}&h=300&output=jpg&q=85" />
-                        {% endif %}
-                        <span><em>{{ include.caption }}</em></span>
-                    </a>
-                </li>
+                    <li>
+                        <a href="{{ imagepath }}">
+                            {% if site.url contains 'localhost' or site.url contains '127.0.0.1' %}
+                                {% comment %} If the site is running locally, then just display the image as-is {% endcomment %}
+                                <img src="{{ imagepath }}" />
+                            {% else %}
+                                {% comment %} If the site is running on the Internet, then use the weserv.nl service to resize and optimize the image {% endcomment %}
+                                <img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ imagepath }}&h=300&output=jpg&q=85" />
+                            {% endif %}
+                            <span><em>{{ include.caption }}</em></span>
+                        </a>
+                    </li>
+                {% endif %}
             {% endif %}
         {% endif %}
     {% endfor %}
