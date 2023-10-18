@@ -1,0 +1,2 @@
+{"rule":"MORFOLOGIK_RULE_EN_AU","sentence":"^\\QAfter indulging in a cozy hot chocolate each from a vending machine, we defrosted in our warm hotel room, got our bags together and checked out of the hotel.\\E$"}
+{"rule":"EXTREME_ADJECTIVES","sentence":"^\\Q{% include image-gallery.html folder=\"/assets/uploads/images/kyoto/3\" caption=\"We got really good at waiting for trains by the end of this trip.\"\\E$"}
