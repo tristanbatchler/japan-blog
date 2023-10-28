@@ -7,7 +7,7 @@
     {% assign classname = "gallery-continuation" %}
 {% endif %}
 
-<ul class="image-gallery {{ classname }} clearfix">
+<ul class="image-gallery {{ classname }}">
     {% for file in site.static_files %}
         {% if file.path contains include.folder %}
             {% assign containingfolderpath = file.path | replace: file.name,"" | replace: "//","/" %}

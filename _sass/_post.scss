@@ -113,19 +113,16 @@
   }
 }
 
+
+
 .image-gallery {
   margin-left: -1px;
   display: flex;
   justify-content: center;
+  margin-bottom: -1rem;
 
   &.gallery-continuation {
-    margin-top: -20px;
-  }
-
-  &.clearfix::after {
-    content: "";
-    display: table;
-    clear: both;
+    margin-top: 6px;
   }
 
   li {
@@ -143,7 +140,7 @@
       span {
         display: block; 
         white-space: normal; 
-        padding-top: 3px 0;
+        padding-top: 3px;
       }
     }
 
