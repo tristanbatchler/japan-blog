@@ -134,12 +134,12 @@
       text-align: center; 
       text-decoration: none!important; 
       color: #777;
-      display: block;
 
       span {
         display: block; 
         text-overflow: ellipsis; 
         overflow: hidden; 
+        white-space: nowrap; 
         padding: 3px 0;
       }
     }
