@@ -122,13 +122,18 @@
     margin-top: -20px;
   }
 
+  &.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
   li {
-    float: left; 
     display: block; 
     margin-left: 5px;
     margin-right: 5px;
     width: auto;
-    height: 300px;  /* Set height here */
+    max-width: 100%;
 
     a {
       text-align: center; 
@@ -137,10 +142,8 @@
 
       span {
         display: block; 
-        text-overflow: ellipsis; 
-        overflow: hidden; 
-        white-space: nowrap; 
-        padding: 3px 0;
+        white-space: normal; 
+        padding-top: 3px 0;
       }
     }
 
@@ -150,6 +153,7 @@
       display: block;
       border-radius: 10px;
       object-fit: cover;
+      max-height: 300px;
     }
   }
 }
