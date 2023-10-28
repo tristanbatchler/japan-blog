@@ -29,12 +29,13 @@ Since we only had one full day in Hiroshima, we decided to visit the Peace Museu
 
 The museum was a sobering experience, with graphic images and stories of the impact of the bomb on Hiroshima and Japan. Around 140,000 people died in the bombing, and the museum did a great job of honoring their memory and educating visitors about the horrors of nuclear warfare.
 
+{% include image-gallery.html folder="/assets/uploads/images/hiroshima/2" %}
+
 We also visited the gardens, the Cenotaph, the Children's Peace Monument, and the Eternal Flame. We didn't go up to the Peace Dome as the sun was setting, but we got a good view from across the river.
 
-{% include image-gallery.html folder="/assets/uploads/images/hiroshima/2" %}
-{% include image-gallery.html folder="/assets/uploads/images/hiroshima/2-part-2" %}
-{% include image-gallery.html folder="/assets/uploads/images/hiroshima/2-part-3" %}
-{% include image-gallery.html folder="/assets/uploads/images/hiroshima/2-part-4" %}
+{% include image-gallery.html folder="/assets/uploads/images/hiroshima/2.01" %}
+{% include image-gallery.html folder="/assets/uploads/images/hiroshima/2.01-part-2" %}
+{% include image-gallery.html folder="/assets/uploads/images/hiroshima/2.01-part-3" %}
 
 On our way back, Sophie had a bit of a tumble and landed hard on her shins. It was painful, but she was okay. Thankfully there was a random orange juice stand nearby, so we got some juice as consolation.
 
@@ -63,12 +64,15 @@ We made it to the boat with time to spare, so we sat by the river, enjoying the 
 
 {% include image-gallery.html folder="/assets/uploads/images/hiroshima/4" %}
 
-Once we arrived at Miyajima, we were greeted by the sight of the island's famous floating gates and our first deer sighting. We explored the island, visiting the temple attached to the floating gates and a spiritual temple up a flight of stairs. We were careful to observe respectfully, not wanting to inadvertently disrespect the traditions.
+Once we arrived at Miyajima, we were greeted by the sight of the island's famous floating gates and our first deer sighting.
 
 {% include image-gallery.html folder="/assets/uploads/images/hiroshima/5" %}
-{% include image-gallery.html folder="/assets/uploads/images/hiroshima/5-part-2" %}
-{% include image-gallery.html folder="/assets/uploads/images/hiroshima/5-part-3" %}
-{% include image-gallery.html folder="/assets/uploads/images/hiroshima/5-part-4" %}
+
+We explored the island, visiting the temple attached to the floating gates and a spiritual temple up a flight of stairs. We were careful to observe respectfully, not wanting to inadvertently disrespect the traditions.
+
+{% include image-gallery.html folder="/assets/uploads/images/hiroshima/5.01" %}
+{% include image-gallery.html folder="/assets/uploads/images/hiroshima/5.01-part-2" %}
+{% include image-gallery.html folder="/assets/uploads/images/hiroshima/5.01-part-3" %}
 
 We walked around the lower part of the island, taking in the sights and sounds. And by sounds, we mean the sound of deer. There was a beautiful temple up the hill -- it was incredible to see so many people praying and paying their respects. We observed respectfully but didn't participate to ensure we wouldn't be insensitive.
 
@@ -98,6 +102,8 @@ This journey is teaching us so much about ourselves and the world around us. We'
 {% include image-gallery.html folder="/assets/uploads/images/hiroshima/8" caption="That's going straight to the pool room!" %}
 
 We decided to head back down the mountain, passing the same group of Aussies we'd met earlier. They jokingly suggested we should follow them around for the rest of their trip, taking photos for them. The descent was tough because our legs were so weak from the hike up, but we were grateful to Isaac Newton and the laws of physics that we didn't have to go against gravity on the way down too.
+
+{% include image-gallery.html folder="/assets/uploads/images/hiroshima/8.1" %}
 
 We hopped on a packed cable car to head back down. The views were breathtaking. Once we got off, we walked through the park, spotting some deer and koi fish along the way. We grabbed some hot chips and a skewer of pork tongue (which was surprisingly good) before heading back to the floating gate.
 
