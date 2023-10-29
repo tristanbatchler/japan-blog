@@ -6,27 +6,28 @@ image: /assets/uploads/images/hiroshima-hero.jpg
 ---
 
 # Day 12: Off to Hiroshima • 広島市
-We woke up feeling a little dusty from the night before, which wasn't helped by an underwhelming hotel breakfast. We packed up (we were getting good at this by this point!) and left for Hiroshima (広島市). On our way into the station, we saw about ten police officers running through the station. We never found out why, but in a country with people who are usually quite reserved, it was a weird sight to see.
+We woke up feeling a little dusty from the night before, which wasn't helped by an underwhelming hotel breakfast. We packed up (we were getting good at this by this point!) and left for [Hiroshima (広島市)](https://en.wikipedia.org/wiki/Hiroshima). On our way into the station, we saw about ten police officers running through the station. We never found out why, but in a country with people who are usually quite reserved, it was weird to see.
 
-Eventually we boarded our Shinkansen and managed to snag aisle seats next to each other.
+Eventually we boarded our Shinkansen and couldn't get seats directly next to each other, but we managed to snag aisle seats in the same row.
 
 {% include image-gallery.html folder="/assets/uploads/images/hiroshima/1" %}
 
-We had quite the adventure on our train ride to the hotel. We shared a tram carriage with a group of Australian travelers who looked like they were ready for a camping expedition with their massive backpacks. It was a hilarious sight, us foreigners taking up half the tram carriage. When we reached our stop, Tristan tried to tap off with his suica card, but we don't think it worked properly. He got off anyway, only to realize he had gotten off at the wrong stop. The whole tram watching, including a Japanese old man who laughed out loud.
+We had quite the adventure on our train ride to the hotel. We shared a tram carriage with a group of Australian travellers who looked like they were ready for a camping expedition with their massive backpacks. When we reached our stop, Tristan tried to tap off with his suica card, but we don't think it worked properly. He got off anyway, only to realise he had gotten off at the wrong stop. The whole tram watching, including a Japanese old man who laughed out loud.
 
-We finally made it to our hotel, [The Knot Hiroshima](https://hotel-the-knot.jp/hiroshima/en/), which was right outside the tram stop. The hotel was super fancy, with the reception on the top floor and a beautiful restaurant on the bottom floor. We were a bit early for check-in, but they let us in anyway since the room was ready. The check-in process was a bit lengthy, with the staff explaining all the rules and services, but we were just eager to get to our room.
+We finally made it to our hotel, [The Knot Hiroshima](https://hotel-the-knot.jp/hiroshima/en/), which was right outside the tram stop. The hotel was super fancy, with the reception on the top floor and a beautiful restaurant on the bottom floor. We were a bit early for check-in, but they let us in anyway since the room was ready. The check-in process took some time, with the staff explaining the many rules and services, but we were just eager to get to our room.
 
-We were surprised when they asked us if we wanted a room on the top or bottom floor. We obviously chose the top floor, and boy, was it worth it! Our room was beautiful, and we had a stunning view of the Peace Dome from the 13th floor.
+We were surprised when they asked us if we wanted a room on the top or bottom floor. We obviously chose the top floor, and boy, was it a good choice! Our room was beautiful, and we had a stunning view of the Peace Dome from the 13th floor.
 
 {% include image-gallery.html folder="/assets/uploads/images/hiroshima/1.1" %}
 {% include image-gallery.html folder="/assets/uploads/images/hiroshima/1.1-part-2" %}
 
-Since we only had one full day in Hiroshima, we decided to visit the Peace Museum and the Peace Dome that afternoon. The museum was a short walk from our hotel, and the view of the river on our way was beautiful. There were many references to the bombings along the esplanade -- there were many paper cranes adorned on memorials and statues.
+Since we only had one full day in Hiroshima, we decided to visit the Peace Museum that afternoon. The museum was a short walk from our hotel, and the view of the river on our way was beautiful. Along the esplanade there were many plaques and memorials, and we stopped to read a few of them. Many of them were adorned with beautiful paper cranes, a symbol of peace that emerged after the bombings.
 
 {% include image-gallery.html folder="/assets/uploads/images/hiroshima/1.2" %}
 {% include image-gallery.html folder="/assets/uploads/images/hiroshima/1.2-part-2" %}
 {% include image-gallery.html folder="/assets/uploads/images/hiroshima/1.2-part-3" %}
 
+After a short walk, we arrived at the museum. It's part of 
 The museum was a sobering experience, with graphic images and stories of the impact of the bomb on Hiroshima and Japan. Around 140,000 people died in the bombing, and the museum did a great job of honoring their memory and educating visitors about the horrors of nuclear warfare.
 
 {% include image-gallery.html folder="/assets/uploads/images/hiroshima/2" %}
