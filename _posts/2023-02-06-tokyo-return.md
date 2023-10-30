@@ -195,6 +195,8 @@ Next we went into a room with every surface covered in mirrors, with long strips
 
 We then went into a dark room with an incredible projection of flowers on the ceiling. It was round-shaped, and we laid on the ground and just soaked it all in. It was a borderline meditative experience.
 
+{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/8.9" %}
+
 Afterwards we headed to a room filled with enormous opaque spheres that were lit up with beautiful colours. You could even push some of the balls and almost kick them around.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/8.5" %}
