@@ -6,24 +6,33 @@ tags:
 image: /assets/uploads/images/tokyo-hero-2.jpg
 ---
 # Day 16: Back to Tōkyō
-
-When we woke up in our futons at the ryokan in Yamanouchi, we planned to visit the onsen downstairs. Sadly, it was closed (boo). So, we spent the morning relaxing, packing, drinking tea in the sunroom while admiring the clear view of the mountains.
+After waking up in our futons, we planned to visit the onsen downstairs early in the morning. Sadly, it was closed (boo). So, we spent the morning relaxing, packing, drinking tea in the sun room while admiring the clear view of the mountains. The sun had finally come out after days of overcast weather, and we couldn't believe those mountains had been there the entire time.
 
 {% include image-gallery.html folder="/assets/uploads/images/yamanouchi/7.1" %}
 
-When we checked out, the owner gave us adorable little ribbons with five yen coins to tie to our bags. We then headed to the station, but not before the owner insisted on taking a group photo with us. He set up a digital camera on a timer, and just as it was about to go off, he shouted "Monkey!" instead of "Cheese!" We were caught off guard and couldn't join in, but it was hilarious. He didn't like how the first picture turned out so he took another one too!
+We packed up our room and made sure to grab everything. We should have done a better job, because we discovered later that we left one Soph's SD cards behind that was full of pictures. Luckily we had backed up most of them, but we were still missing pictures from a day or two of our trip. We took one last picture of our room before we left -- it was such an interesting place to stay.
 
-He even tried to sell us some t-shirts before we left. We politely declined, eager to continue our journey. We were relieved when he didn't offer to drive us to the station, as we weren't too keen on getting back into his death trap of a car. We were excited to explore more of Tōkyō, but we were also a little sad to be leaving this weird and wonderful place behind.
+{% include image-gallery.html folder="/assets/uploads/images/yamanouchi/7.2" caption="We've never wanted to go back in time to a picture more, just to get that bloody SD card back!" %}
+
+After we checked out at reception, the owner gave us adorable little ribbons with five yen coins to tie to our bags. Before we could turn around and leave, the owner insisted on taking a group photo with us. He set up a digital camera on a timer, and just as it was about to go off, he shouted 'Monkey!' instead of 'Cheese!'. We were caught off guard and didn't say it in time, but we looked at each other and laughed afterwards. He even took another picture because he didn't like how the first one turned out, lol.
+
+He even tried to sell us some t-shirts before we left. We politely declined, but in hindsight that would have been a cool souvenir to have. He didn't offer to drive us to the station, which was a relief as we weren't too keen on getting back into his death trap of a car. We were excited to explore more of Tōkyō, but we were also a little sad to be leaving this weird and wonderful place behind.
+
+After walking back to Yudanaka station for the last time, a friendly station attendant helped us purchase our tickets to Nagano. Our train wasn't due to arrive for some time, so we grabbed some pizza buns and hot tea from Lawson for breakfast (nutritious and delicious!). There wasn't a clear line to board the train, people were just kind of huddled in the waiting area, so we were a bit confused. After committing to awkwardly standing at the back of the group, people were eventually allowed through the gates and onto the train.
+
+Once on the train, we found that Tristan's luggage fit in the overhead carry area, but Soph's didn't. So, we had to sit separately, with Soph next to her luggage. The train ride was a pleasant 45 minutes with some great views.
 
 {% include image-gallery.html folder="/assets/uploads/images/yamanouchi/8" %}
 
-After walking back to Yudanaka station for the last time, a friendly station attendant helped us purchase our tickets to Nagano. We had a bit of a wait for our train, so we grabbed some pizza buns and hot tea from Lawson. The line to board the train was a bit confusing, and we ended up switching lines a few times before finally boarding. 
+We revived the drawing game we made up before our flight to Japan a few weeks before -- Tristan drew a very accurate portrait of Dave Grohl in just one minute.
 
-Once on the train, we found that Tristan's luggage fit in the overhead carry area, but Soph's didn't. So, we had to sit separately, with Soph next to her luggage. The train ride was a pleasant 45 minutes with some great views. We revived the drawing game we made up before our flight to Japan a few weeks before -- Tristan drew a very accurate portrait of Dave Grohl in just one minute. It belongs in the Louvre! We arrived in Nagano and navigated our way out of the station, got some Shinkansen tickets, and used our JR Pass for the last time. 
+{% include image-gallery.html folder="/assets/uploads/images/yamanouchi/8.1" caption="It belongs in the Lourve!" %}
 
-{% include image-gallery.html folder="/assets/uploads/images/yamanouchi/8.1" %}
+We arrived in Nagano and navigated our way out of the station, got some Shinkansen tickets, and used our JR Pass for the last time. We had to settle for a three-seater as there were no two-seaters left. Thankfully, no one sat next to us, and we enjoyed a peaceful ride.
 
-We had to settle for a three-seater as there were no two-seaters left. Thankfully, no one sat next to us, and we enjoyed a peaceful ride. We got off near Tōkyō and transferred to another train to get to Shibuya (渋谷区). The ticketing system was a bit confusing, but we managed to figure it out and made it to Shibuya Station without any issues. 
+{% include image-gallery.html folder="/assets/uploads/images/yamanouchi/9" %}
+
+We got off near Tōkyō and transferred to another train to get to Shibuya. The ticketing system was a bit confusing, but we managed to figure it out and made it to Shibuya Station without any issues. 
 
 The station was quite busy -- lots of construction pushed lots of people into only a few walkways, so it was tricky to navigate with our luggage. Soph started feeling a bit off, but we chalked it up to tiredness. We explored the area a bit, had a funny encounter with a security guard who seemed to want to stop us from walking down a particular street. To make matters worse, she was extremely confused when Tristan told her "we don't speak English" (he meant to say "Japanese"!).
 
