@@ -18,9 +18,9 @@ After we checked out at reception, the owner gave us adorable little ribbons wit
 
 He even tried to sell us some t-shirts before we left. We politely declined, but in hindsight that would have been a cool souvenir to have. He didn't offer to drive us to the station, which was a relief as we weren't too keen on getting back into his death trap of a car. We were excited to explore more of Tōkyō, but we were also a little sad to be leaving this weird and wonderful place behind.
 
-After walking back to Yudanaka station for the last time, a friendly station attendant helped us purchase our tickets to Nagano. Our train wasn't due to arrive for some time, so we grabbed some pizza buns and hot tea from Lawson for breakfast (nutritious and delicious!). There wasn't a clear line to board the train, people were just kind of huddled in the waiting area, so we were a bit confused. After committing to awkwardly standing at the back of the group, people were eventually allowed through the gates and onto the train.
+After walking back to [Yudanaka Station (湯田中駅)](https://en.wikipedia.org/wiki/Yudanaka_Station) for the last time, a friendly station attendant helped us purchase our tickets to Nagano. Our train wasn't due to arrive for some time, so we grabbed some pizza buns and hot tea from Lawson for breakfast (nutritious and delicious!). There wasn't a clear line to board the train, people were just kind of huddled in the waiting area, so we were a bit confused. After committing to awkwardly standing at the back of the group, people were eventually allowed through the gates and onto the train.
 
-Once on the train, we found that Tristan's luggage fit in the overhead carry area, but Soph's didn't. So, we had to sit separately, with Soph next to her luggage. The train ride was a pleasant 45 minutes with some great views.
+Once on the train, we found that Soph's luggage [didn't fit in the overhead compartment](https://www.youtube.com/watch?v=27PFEeRDYJQ). So, we had to sit separately, with Soph next to her luggage. The train ride was a pleasant 45 minutes with some great views.
 
 {% include image-gallery.html folder="/assets/uploads/images/yamanouchi/8" %}
 
@@ -32,22 +32,28 @@ We arrived in Nagano and navigated our way out of the station, got some Shinkans
 
 {% include image-gallery.html folder="/assets/uploads/images/yamanouchi/9" %}
 
-We got off near Tōkyō and transferred to another train to get to Shibuya. The ticketing system was a bit confusing, but we managed to figure it out and made it to Shibuya Station without any issues. 
+We got off near Tōkyō and transferred to another train to get to our new digs in Shibuya. The ticketing system was a bit confusing, but we managed to figure it out and made it to Shibuya Station without any issues. 
 
-The station was quite busy -- lots of construction pushed lots of people into only a few walkways, so it was tricky to navigate with our luggage. Soph started feeling a bit off, but we chalked it up to tiredness. We explored the area a bit, had a funny encounter with a security guard who seemed to want to stop us from walking down a particular street. To make matters worse, she was extremely confused when Tristan told her "we don't speak English" (he meant to say "Japanese"!).
+The station was quite busy -- construction pushed big groups of people into narrow walkways, so it was tricky to navigate through the crowds with our luggage in tow. Soph started feeling a bit off, but we chalked it up to tiredness. We explored the area a bit, had a funny encounter with a security guard who seemed to want to stop us from walking down a particular street. To make matters worse, she was extremely confused when Tristan told her 'we don't speak English' (he meant to say 'Japanese'!).
 
-Soph was feeling worse by this point, so she took a long bath and rested while Tristan unpacked. We decided to venture out again for some food and shopping. We visited Bic Camera, which was a bit overwhelming with its multiple levels and variety of products. We managed to find what we needed and then headed to a burger place called The Great Burger Stand. 
+We finally made it back to the last hotel of our trip, [Tokyu Stay Shibuya](https://www.booking.com/hotel/jp/tokyu-stay-shibuya.en-gb.html?aid=356980&label=gog235jc-1DCAsodUISdG9reXUtc3RheS1zaGlidXlhSDNYA2gPiAEBmAEJuAEXyAEM2AED6AEBiAIBqAIDuALArpGqBsACAdICJDVjNzFiNjMzLTRhZTEtNDBjZi1hYjA2LTQxYTcxOTYzMTY3MtgCBOACAQ&sid=00331bf60c828dd121ef44067c351ec3&dist=0&keep_landing=1&sb_price_type=total&type=total&). The room was pretty basic and the location wasn't as good as its sister hotel in Shinjuku, but it was right above a Family Mart so at least we had snacks nearby.
+
+By this point Soph was feeling worse, so she took a long bath and rested while Tristan unpacked. After some R&R, we ventured out again for some food and shopping. We visited [Bic Camera (株式会社ビックカメラ)](https://en.wikipedia.org/wiki/Bic_Camera), which was a bit overwhelming with its multiple levels full to the brim with random electronics. We managed to find what we needed and then headed to [The Great Burger Stand](https://www.tripadvisor.com.au/Restaurant_Review-g1066456-d15113790-Reviews-The_Great_Burger_Stand-Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html) for dinner. 
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/1" %}
 
-The food was good, and we enjoyed some plant-based options. However, Soph was feeling even worse by this point, so we headed back to the hotel. She had a rough night, and Tristan didn't sleep much either due to the small bed and the loud air conditioning. 
+The food was delicious and had a range of plant-based options to choose from. However, Soph was feeling even worse by this point, so we called it a night after we finished our meals and headed back to the hotel.
+
+{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/1.1" caption="Over it! " %}
+
+Soph had a rough night, and Tristan didn't sleep much either thanks to the small bed and the loud air conditioning. 
 
 # Day 17: A day of rest
-The next day, Soph was still not feeling well, and we had pre-booked tickets to Team Labs Planets. We decided it would be better if Tristan went by himself even though we would have loved to experience it together. With a heavy heart, Tristan got ready and began to leave for Team Labs on his own. Meanwhile, Soph had a moment of clarity and thought to check if we could rebook for Friday morning. It turns out we could, and we managed to rebook our tickets! We were really hoping Soph would feel better by then, but we were both so relieved we avoided Tristan having to go alone. We weren't able to get a refund for our original tickets, but it was a small price to pay to ensure we could go together.
+The next morning, Soph wasn't feeling any better. This was annoying because we had pre-booked tickets to Team Labs Planets, an interactive art exhibit that we were both really excited about. After some back and forth, we decided that at least one of us should see it, so Tristan got ready and left Soph to rest. Shortly after he left, Soph had a moment of clarity and checked to see if we could rebook for Friday morning. It turns out that there were tickets available, so we booked them! The date was not ideal as we were flying back to Aus that night, but it was worth it to see the exhibit together. We crossed our fingers that Soph would feel better by then.
 
-We decided to stay in and watch some movies. We decided to stay in and watch New People, Chef, and then Julie and Julia. Japanese Netflix is very weird.
+After rebooking, Tristan came straight back (with snacks) and we spent the day in the hotel room to give Soph the best chance of a speedy recovery. We watched a few random shows on Netflix -- [You People](https://www.imdb.com/title/tt14826022/), [Chef](https://www.imdb.com/title/tt2883512/?ref_=fn_al_tt_1), and then [Julie and Julia](https://www.imdb.com/title/tt1135503/?ref_=fn_al_tt_1).
 
-It was a pretty chill day, we didn't interact much with anyone else. We did manage to venture out for a short walk to Macca's for lunch and enjoyed it next to a nearby stream. Soph was starting to feel a bit better, but we didn't want to push it. 
+Other than that, we did manage to venture out for a short walk to Macca's for lunch and enjoyed it next to a nearby stream. Thankfully, Soph was starting to feel a bit better, but we didn't want to push it. 
 
 # Day 18: Studio Ghibli Museum
 The next day, we woke up early because we had tickets to the Ghibli Museum (Mitaka no Mori Jiburi Bijutsukan, 三鷹の森ジブリ美術館). Soph was finally on the mend, so we grabbed our favorite breakfast from Doutor. We then realized we needed our tickets to get into the museum, which were hidden amongst our pile of receipts. After a bit of a scramble, we found them and headed off to Shibuya Station.
