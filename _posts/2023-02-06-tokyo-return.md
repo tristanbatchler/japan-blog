@@ -49,39 +49,57 @@ The food was delicious and had a range of plant-based options to choose from. Ho
 Soph had a rough night, and Tristan didn't sleep much either thanks to the small bed and the loud air conditioning. 
 
 # Day 17: A day of rest
-The next morning, Soph wasn't feeling any better. This was annoying because we had pre-booked tickets to Team Labs Planets, an interactive art exhibit that we were both really excited about. After some back and forth, we decided that at least one of us should see it, so Tristan got ready and left Soph to rest. Shortly after he left, Soph had a moment of clarity and checked to see if we could rebook for Friday morning. It turns out that there were tickets available, so we booked them! The date was not ideal as we were flying back to Aus that night, but it was worth it to see the exhibit together. We crossed our fingers that Soph would feel better by then.
+The next morning, Soph still wasn't feeling any better. This was annoying because we had pre-booked tickets to [Team Labs Planets](https://www.teamlab.art/e/planets/), an interactive art exhibit that we were both really excited about. After some back and forth, we decided that at least one of us should see it, so Tristan got ready and left Soph to rest. Shortly after he left, Soph had a moment of clarity and checked to see if we could rebook for Friday morning. It turns out that there were tickets available, so we booked them! The date was not ideal as we were flying back to Aus that night, but it was worth it to see the exhibit together. We crossed our fingers that Soph would feel better by then.
 
-After rebooking, Tristan came straight back (with snacks) and we spent the day in the hotel room to give Soph the best chance of a speedy recovery. We watched a few random shows on Netflix -- [You People](https://www.imdb.com/title/tt14826022/), [Chef](https://www.imdb.com/title/tt2883512/?ref_=fn_al_tt_1), and then [Julie and Julia](https://www.imdb.com/title/tt1135503/?ref_=fn_al_tt_1).
+After rebooking, Tristan came straight back (with snacks) and we spent the day in the hotel room to give Soph the best chance of a speedy recovery. We watched a few random shows on Netflix -- [You People](https://www.imdb.com/title/tt14826022/), [Chef](https://www.imdb.com/title/tt2883512/?ref_=fn_al_tt_1), and then [Julie and Julia](https://www.imdb.com/title/tt1135503/?ref_=fn_al_tt_1). Funny story about Chef -- Tristan showed it to Soph on a whim one day, and she unexpectedly fell head over heels in love with it. She's seen it at least four times since then and will happily watch it with anyone who's never seen it. Highly recommend!
 
 Other than that, we did manage to venture out for a short walk to Macca's for lunch and enjoyed it next to a nearby stream. Thankfully, Soph was starting to feel a bit better, but we didn't want to push it. 
 
 # Day 18: Studio Ghibli Museum
-The next day, we woke up early because we had tickets to the Ghibli Museum (Mitaka no Mori Jiburi Bijutsukan, 三鷹の森ジブリ美術館). Soph was finally on the mend, so we grabbed our favorite breakfast from Doutor. We then realized we needed our tickets to get into the museum, which were hidden amongst our pile of receipts. After a bit of a scramble, we found them and headed off to Shibuya Station.
+The next day, we woke up early because we had tickets to the [Ghibli Museum (三鷹の森ジブリ美術館)](https://www.japan-guide.com/e/e3041.html). Soph was finally on the mend, which was a huge relief because it would have been impossible to rebook these tickets. We started our day with our favourite breakfast from Doutor. Thankfully we stopped here before going to the museum as we realised halfway through our meal that we had forgotten our tickets! Luckily our hotel was nearby, so we quickly ducked back in and fished them out of our huge receipt pile. With tickets in hand, we headed off to catch our train at Shibuya Station.
 
-After a nice walk through a park in Mitaka, we finally made it to the museum, and we were so excited when I saw the giant Totoro in the ticket booth. There was already a line of excited people waiting to get in, and the energy was infectious.
+After a quick train journey, we arrived at [Mikata (三鷹市)](https://en.wikipedia.org/wiki/Mitaka,_Tokyo), a city in West Tōkyō. The museum was a bit of a walk from the station, but it was a gorgeous day, so we didn't mind.
+
+{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/1.2" %}
+
+After a pleasant walk through [Inokashira Park (井の頭恩賜公園)](https://en.wikipedia.org/wiki/Inokashira_Park), we finally made it to the museum! Soph's favourite Ghibli movie is [My Neighbour Totoro (となりのトトロ)](https://ghibli.fandom.com/wiki/My_Neighbor_Totoro), so when she saw the giant [Totoro](https://ghibli.fandom.com/wiki/Totoro) in the ticket booth, she squealed with delight.
+
+{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/1.3" %}
+
+The museum's exterior perfectly encapsulated the joy of Ghibli films. The walls were painted with bright colours and the windows were custom made to look like they were straight from the mind of [Hayao Miyazaki (宮崎 駿)](https://en.wikipedia.org/wiki/Hayao_Miyazaki).
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/2" %}
-{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/2-part-2" %}
 
-We were a bit nervous about our tickets because we had used a bit of a workaround to get them. Usually, tickets aren't available to foreigners unless you buy them on a specific day, and they sell out quickly. But we managed to get ours by using a VPN to appear as if we were in Japan. We ordered the tickets from the Japanese Studio Ghibli website and picked them up at Lawson's at the start of the trip. Thankfully, our little trick worked, and we got in without much issue. And just like that, we were stepping into the magical world of Studio Ghibli!
+There were about 100 people lined up, but thankfully it was moving fairly quickly. There was already a line of excited people waiting to get in, and the energy was infectious.
 
-Inside the museum, it was like stepping into another world. Sadly we couldn't take any photos inside, but there were three stories filled with early drawings, storyboards, and models of the animators' rooms. We even got to watch an exclusive short film about a little spider that lives underwater called Mon Mon the Water Spider (Mizugumo Monmon, 水グモもんもん). You can only watch it at the museum, and it had no words so anyone could enjoy it, no matter their background. It was a truly unforgettable experience. We were allowed to take pictures on the roof, which had an enormous statue of the giant robot gardener from Castle in the sky.
+We were a bit nervous about whether we would make it inside because we had used a bit of a workaround to get our tickets. Usually, tickets aren't available to foreigners unless you buy them on a specific day online, and they sell out very quickly. But, tickets are much easier to get if you're a Japanese resident, so we used a VPN to trick the website into thinking we were from Japan. We ordered the tickets from the [Japanese Studio Ghibli website](https://www.ghibli-museum.jp/en/tickets/) and picked them up at Lawson's at the start of the trip. Thankfully, our little trick worked, and we got in with no issues. And just like that, we were stepping into the magical world of Studio Ghibli!
+
+Inside the museum, it was like stepping into another world. Sadly we couldn't take any photos inside, but the museum spanned three stories and was filled with early drawings and storyboards from classic Ghibli films like [Kiki's Delivery Service (魔女の宅急便)](https://ghibli.fandom.com/wiki/Kiki%27s_Delivery_Service) and [Spirited Away (千と千尋の神隠し)](https://ghibli.fandom.com/wiki/Spirited_Away). There were also life-size replications of the rooms that the animators drew in, all strewn with original art from the films.
+
+We even got to watch an exclusive short film about a little spider that lives underwater called [Mon Mon the Water Spider (水グモもんもん)](https://ghibli.fandom.com/wiki/Water_Spider_Monmon). It was a sweet little film about a bell spider that falls in love with a water strider -- only Studio Ghibli could make a spider cute! Soph loved it so much that she got an exclusive keychain with the spider on it. The film is exclusive to the museums, so it felt extra special that we had seen it. It also has no dialogue, so it was accessible for anyone to enjoy, regardless of language. It was a truly unforgettable experience!
+
+After exploring more of the museum, we made our way to the roof. It had an enormous statue of [the robot](https://ghibli.fandom.com/wiki/Robot) from [Castle in the Sky (天空の城ラピュタ)](https://ghibli.fandom.com/wiki/Castle_in_the_Sky), which we were allowed to take photos of!
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/4" %}
 
-After exploring everything the museum had to offer (and spending way too much money at the gift shop), we decided to get some lunch at the Straw Hat Cafe. It's common in Japan to see plastic renditions of everything on a restaurant's menu, but the museum took it one step further and had knitted versions of their dishes. It was so cute and quirky!
+The museum was one of the top 3 highlights of our trip for sure. It was curated to perfection, and luckily for our love of gift shops, theirs was incredible. It was pretty crowded as the shop sells exclusive merchandise that you can't get anywhere else. We took our time looking at all of the adorable trinkets, and because it was exclusive merch, we allowed ourselves to spend a bit more than we usually would. We ended up spending about $150 AUD, which got us a surprisingly sizeable haul. We got a couple of keychains, pens, a magnet, and a few plushies. You know you've done well when they give you the big bag! We were stoked.
+
+After exploring everything the museum had to offer, we decided to get some lunch at the [Straw Hat Café](https://en.japantravel.com/tokyo/ghibli-museum-s-straw-hat-cafe/30186). It's common in Japan to see plastic renditions of everything on a restaurant's menu, but the museum took it one step further and had knitted versions of their dishes. It was so cute and quirky!
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/5" %}
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/5-part-2" %}
-{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/5-part-3" %}
 
-After saying our goodbyes to the museum, we took a leisurely stroll through the park, heading back to our hotel. Along the way, we encountered a woman just casually walking her cat. But the real stars of our walk were the ducks we spotted in the lake.
+The museum was a huge highlight of our trip. We booked our tickets about three months before our trip, and we were so relieved that it was worth the wait. It was extra special that we got to experience it together, and we highly recommend it to anyone visiting Japan who loves Studio Ghibli.
+
+{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/5.01" %}
+
+After saying our goodbyes to the museum, we took a leisurely stroll through the park before heading back to our hotel. Along the way, we encountered a woman just casually walking her cat on a leash (as you do).
+
+But the real stars of our walk were the ducks we spotted in the lake -- we think they were [greater scaups](https://en.wikipedia.org/wiki/Greater_scaup). They would dive underwater to find a lil snack, and would re-emerge about ten seconds later in a totally different spot. Then there were the other ducks that couldn't dive as deep -- they'd bob around for a good five seconds or so and then resurface (and presumably ask their Mum if she saw that). We must've spent twenty minutes just watching them go up and down. It's the little things!
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/5.1" %}
 
-We were enthralled watching them swim underwater for food. It was so cool to watch them swim down, disappearing completely, only to resurface with a lil snack. They'd stay up for a few seconds, then dive back down again. Then there were the other ducks that couldn't dive as deep -- they'd bob around like that for a good five seconds or so, and then resurface (and presumably ask their Mum if she saw that). We must have spent a good 15 minutes just watching these ducks, completely captivated. It was a simple, unexpected joy that made our day just that little bit better. It's the little things. We don't deserve ducks!!
-
-We walked through the park on our way back to the station. It was a really charming park and lots of people were out enjoying it despite it being a bit of a dreary day.
+After peeling ourselves away from the ducks, we walked through the rest of the park. The grounds were very charming and there were plenty of people out enjoying it despite it being a bit of a dreary day.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/5.2" %}
 
