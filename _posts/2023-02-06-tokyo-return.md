@@ -49,7 +49,7 @@ The food was delicious and had a range of plant-based options to choose from. Ho
 Soph had a rough night, and Tristan didn't sleep much either thanks to the small bed and the loud air conditioning. 
 
 # Day 17: A day of rest
-The next morning, Soph still wasn't feeling any better. This was annoying because we had pre-booked tickets to [Team Labs Planets](https://www.teamlab.art/e/planets/), an interactive art exhibit that we were both really excited about. After some back and forth, we decided that at least one of us should see it, so Tristan got ready and left Soph to rest. Shortly after he left, Soph had a moment of clarity and checked to see if we could rebook for Friday morning. It turns out that there were tickets available, so we booked them! The date was not ideal as we were flying back to Aus that night, but it was worth it to see the exhibit together. We crossed our fingers that Soph would feel better by then.
+The next morning, Soph still wasn't feeling any better. This was annoying because we had pre-booked tickets to [teamLabs Planets](https://www.teamlab.art/e/planets/), an interactive art exhibit that we were both really excited about. After some back and forth, we decided that at least one of us should see it, so Tristan got ready and left Soph to rest. Shortly after he left, Soph had a moment of clarity and checked to see if we could rebook for Friday morning. It turns out that there were tickets available, so we booked them! The date was not ideal as we were flying back to Aus that night, but it was worth it to see the exhibit together. We crossed our fingers that Soph would feel better by then.
 
 After rebooking, Tristan came straight back (with snacks) and we spent the day in the hotel room to give Soph the best chance of a speedy recovery. We watched a few random shows on Netflix -- [You People](https://www.imdb.com/title/tt14826022/), [Chef](https://www.imdb.com/title/tt2883512/?ref_=fn_al_tt_1), and then [Julie and Julia](https://www.imdb.com/title/tt1135503/?ref_=fn_al_tt_1). Funny story about Chef -- Tristan showed it to Soph on a whim one day, and she unexpectedly fell head over heels in love with it. She's seen it at least four times since then and will happily watch it with anyone who's never seen it. Highly recommend!
 
@@ -74,163 +74,174 @@ There were about 100 people lined up, but thankfully it was moving fairly quickl
 
 We were a bit nervous about whether we would make it inside because we had used a bit of a workaround to get our tickets. Usually, tickets aren't available to foreigners unless you buy them on a specific day online, and they sell out very quickly. But, tickets are much easier to get if you're a Japanese resident, so we used a VPN to trick the website into thinking we were from Japan. We ordered the tickets from the [Japanese Studio Ghibli website](https://www.ghibli-museum.jp/en/tickets/) and picked them up at Lawson's at the start of the trip. Thankfully, our little trick worked, and we got in with no issues. And just like that, we were stepping into the magical world of Studio Ghibli!
 
-Inside the museum, it was like stepping into another world. Sadly we couldn't take any photos inside, but the museum spanned three stories and was filled with early drawings and storyboards from classic Ghibli films like [Kiki's Delivery Service (魔女の宅急便)](https://ghibli.fandom.com/wiki/Kiki%27s_Delivery_Service) and [Spirited Away (千と千尋の神隠し)](https://ghibli.fandom.com/wiki/Spirited_Away). There were also life-size replications of the rooms that the animators drew in, all strewn with original art from the films.
+Inside the museum, it was like stepping into another world. Sadly we couldn't take any photos inside, but we'll try to describe its magic! The museum spanned three stories and was filled with early drawings and storyboards from classic Ghibli films like [Kiki's Delivery Service (魔女の宅急便)](https://ghibli.fandom.com/wiki/Kiki%27s_Delivery_Service) and [Spirited Away (千と千尋の神隠し)](https://ghibli.fandom.com/wiki/Spirited_Away). There were also life-size replications of the rooms that the animators drew in, all strewn with original art from the films.
 
-We even got to watch an exclusive short film about a little spider that lives underwater called [Mon Mon the Water Spider (水グモもんもん)](https://ghibli.fandom.com/wiki/Water_Spider_Monmon). It was a sweet little film about a bell spider that falls in love with a water strider -- only Studio Ghibli could make a spider cute! Soph loved it so much that she got an exclusive keychain with the spider on it. The film is exclusive to the museums, so it felt extra special that we had seen it. It also has no dialogue, so it was accessible for anyone to enjoy, regardless of language. It was a truly unforgettable experience!
+We even got to watch a short film about a little spider that lives underwater called [Mon Mon the Water Spider (水グモもんもん)](https://ghibli.fandom.com/wiki/Water_Spider_Monmon). It was a sweet little film about a [diving bell spider](https://en.wikipedia.org/wiki/Diving_bell_spider) that falls in love with a [water strider](https://en.wikipedia.org/wiki/Gerridae) -- only Studio Ghibli could make a spider cute! Soph loved it so much that she got a keychain with the spider on it. The film is exclusive to the museums, so it felt extra special that we had seen it. It also has no dialogue, so it was accessible for anyone to enjoy, regardless of language. It was a truly unforgettable experience!
 
-After exploring more of the museum, we made our way to the roof. It had an enormous statue of [the robot](https://ghibli.fandom.com/wiki/Robot) from [Castle in the Sky (天空の城ラピュタ)](https://ghibli.fandom.com/wiki/Castle_in_the_Sky), which we were allowed to take photos of!
+After exploring more of the museum, we made our way up the ivy-covered spiral stairs to the roof. It had an enormous statue of [the robot](https://ghibli.fandom.com/wiki/Robot) from [Castle in the Sky (天空の城ラピュタ)](https://ghibli.fandom.com/wiki/Castle_in_the_Sky), which we were allowed to take photos of!
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/4" %}
 
-The museum was one of the top 3 highlights of our trip for sure. It was curated to perfection, and luckily for our love of gift shops, theirs was incredible. It was pretty crowded as the shop sells exclusive merchandise that you can't get anywhere else. We took our time looking at all of the adorable trinkets, and because it was exclusive merch, we allowed ourselves to spend a bit more than we usually would. We ended up spending about $150 AUD, which got us a surprisingly sizeable haul. We got a couple of keychains, pens, a magnet, and a few plushies. You know you've done well when they give you the big bag! We were stoked.
+Luckily for our love of gift shops, theirs was incredible. It was pretty crowded as the shop sells exclusive merchandise that you can't get anywhere else. We took our time looking at all of the adorable trinkets, and because it was exclusive merch, we allowed ourselves to spend a bit more than we usually would. We ended up spending about $150 AUD, which got us a surprisingly sizeable haul. We got a couple of keychains, pens, a magnet, and a few plushies. You know you've done well when they give you the big bag! We were stoked.
 
 After exploring everything the museum had to offer, we decided to get some lunch at the [Straw Hat Café](https://en.japantravel.com/tokyo/ghibli-museum-s-straw-hat-cafe/30186). It's common in Japan to see plastic renditions of everything on a restaurant's menu, but the museum took it one step further and had knitted versions of their dishes. It was so cute and quirky!
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/5" %}
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/5-part-2" %}
 
-The museum was a huge highlight of our trip. We booked our tickets about three months before our trip, and we were so relieved that it was worth the wait. It was extra special that we got to experience it together, and we highly recommend it to anyone visiting Japan who loves Studio Ghibli.
+The museum was a huge highlight of our trip. It was curated to perfection and we were stoked that it had lived up to the hype. We booked our tickets about three months before our trip, and it was definitely worth the wait. It was extra special that we got to experience it together, and we highly recommend it to anyone visiting Japan who loves Studio Ghibli.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/5.01" %}
 
 After saying our goodbyes to the museum, we took a leisurely stroll through the park before heading back to our hotel. Along the way, we encountered a woman just casually walking her cat on a leash (as you do).
 
-But the real stars of our walk were the ducks we spotted in the lake -- we think they were [greater scaups](https://en.wikipedia.org/wiki/Greater_scaup). They would dive underwater to find a lil snack, and would re-emerge about ten seconds later in a totally different spot. Then there were the other ducks that couldn't dive as deep -- they'd bob around for a good five seconds or so and then resurface (and presumably ask their Mum if she saw that). We must've spent twenty minutes just watching them go up and down. It's the little things!
+But the real stars of our walk were the ducks we spotted in the lake -- we think they were [greater scaups](https://en.wikipedia.org/wiki/Greater_scaup). They dived underwater to find a lil snack and re-emerged about ten seconds later in a totally different spot. Some of the ducks that couldn't dive as deep -- they'd bob around for a good five seconds or so and then resurface (and presumably ask their Mum if she saw that). We must've spent twenty minutes just watching them go up and down. It's the little things!
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/5.1" %}
 
-After peeling ourselves away from the ducks, we walked through the rest of the park. The grounds were very charming and there were plenty of people out enjoying it despite it being a bit of a dreary day.
+After peeling ourselves away from the ducks, we walked through the rest of the park. The grounds were well-kept (classic Japan) and there were plenty of people out on a stroll despite it being a bit of a dreary day.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/5.2" %}
 
-On the way back, we visited a few vintage clothing stores, but didn't end up buying anything. We just enjoyed browsing and seeing what was on offer. We also stumbled upon another B-side label store, the same sticker store we had visited in Ōsaka. We did another round in there, just to make sure we weren't missing out on any cool stickers or t-shirts. The staff were really friendly and even gave us a business card, which is a kind gesture in Japan. We trotted back to the train station and headed back to our hotel in Shibuya.
+On the way back to the train station, we visited a few vintage clothing stores along an adorable street. We didn't end up buying anything, but we still enjoyed browsing and seeing what was on offer. We also stumbled upon another [B-side label](https://bside-label.com/en) store, the same sticker store we had visited in Ōsaka. We did another round in there, just to make sure we weren't missing out on any cool stickers or t-shirts. The staff were really friendly and even gave us a business card, which is a kind gesture in Japan. We moseyed on back to the train station and headed back to our hotel in Shibuya.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/5.3" %}
 
-We decided to take it easy for the rest of the day, watching a few episodes of "Cook at all Costs" on Netflix. Basically, three contestants cook meals at different costs from their own budget and whoever cooks the best meal wins the money they have left. It was a bit gimmicky, but it was entertaining enough to keep us occupied.
+After returning to our hotel room, we decided to take it easy for the rest of the day. We watched a few episodes of [Cook at all Costs](https://www.imdb.com/title/tt21840938/)" on Netflix. Basically, three contestants cook meals at different costs from the same amount of starting money and whoever cooks the best meal wins the money they have left. It was a bit gimmicky, but it was entertaining enough to keep us occupied.
 
-We emerged from our hotel in the evening to secure some grub. We weren't super hungry, so we explored Shibuya and took the opportunity to take some nighttime snaps in the city.
+We emerged from our hotel in the evening to secure some grub. We weren't super hungry, so we explored Shibuya and took the opportunity to take some nighttime snaps in the city before grabbing dinner.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/5.4" %}
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/5.4-part-2" %}
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/5.4-part-3" %}
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/5.4-part-4" %}
 
-After working up an appetite, we decided to try out a sushi place for dinner that came highly recommended on Happy Cow (a vegan food app). It was a bit of a mission to find it -- it was nestled in a large department building and it was tricky finding what level it was on. After a bit of wandering around, we finally found it and joined the long line of people waiting to get in.
+After working up an appetite, we decided to try out a sushi place for dinner, [Katsu Midori](https://www.happycow.net/reviews/katsu-midori-tokyo-84977). It came highly recommended on [Happy Cow](https://www.happycow.net/) (a vegan food app), and we were desperate to have a good selection of vegetarian sushi in Japan. It was a bit of a mission to find the restaurant itself -- it was nestled in a large department building and it took some time to find what level it was on. After a bit of wandering around, we finally found it and joined the long line of people waiting to get in.
 
-After waiting around 45 minutes, we were in. It was quite an experience -- the menu was on an iPad and when you ordered something, it would take a while for it to come out. But when it did, it would arrive on a little train that looked like a shinkansen -- adorbs. Unfortunately, the vegetarian options were quite limited despite Happy Cow's recommendation, which was disappointing. We ate what we could and cut our losses.
+After waiting in line for 45 minutes, we were in. It was quite an experience -- the menu was on an iPad and when you ordered something, it would take a while for it to come out. But when it did, it would arrive on a little train that looked like a shinkansen -- adorbs.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/6" %}
 
-We strolled around Shibuya a little longer before turning it in for the night. We were keen for our last full day in Japan. We had mixed into mixed feelings about it -- we were a bit sad that our holiday was coming to an end, but we were also ready to return to our routine back in Aus (and our orange guy, of course).
+Unfortunately, the vegetarian options were quite limited despite Happy Cow's glowing recommendation, which was disappointing. This trip made us realise that sushi outside of Japan is catered for western tastes, and that includes the vegetarian options. It was a bit annoying waiting so long to get in only to be disappointed.
 
-# Day 19: Asakusa (浅草)
-We woke up early and decided to revisit Shibuya Sky, a tall building with a great view of the city for free. Unfortunately, the best spots were taken up by people with tripods filming time lapses, so we didn't get to take many photos. But it was still a nice experience.
+After dinner, we strolled around Shibuya a little longer before turning it in for the night. Tomorrow is our last full day in Japan, which is bittersweet -- we were sad that our holiday was coming to an end, but we were also ready to return to our routine back in Aus (and our orange guy, of course).
+
+# Day 19: Our Last Full Day in Japan
+We woke up early and decided to revisit [Shibuya Hikarie building (渋谷ヒカリエ)](https://www.kanpai-japan.com/tokyo/shibuya-hikarie), a tall building with a great view of the city for free. Unfortunately, the best spots were taken up by people with tripods filming time lapses, so we didn't get to take many photos. But it was still a nice experience.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/6.1" %}
 
-We ventured out to Akihabara (秋葉原) to check it out in the daytime. We visited a few electronics stores, but it was a bit like seeing the Valley in the daytime -- it didn't have the same lustre as it does at nighttime. We still enjoyed the sunshine and even saw this weird sign.
+We ventured out to [Akihabara (秋葉原)](https://www.japan-guide.com/e/e3003.html) to check it out in the daytime. We visited a few electronics stores, but it was a bit like seeing [the Valley](https://en.wikipedia.org/wiki/Fortitude_Valley,_Queensland) in the daytime -- it didn't have the same lustre as it does at nighttime. We still enjoyed the sunshine and even saw this weird sign.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/6.2" caption="Hair 'cut'...seems legit." %}
 
-We decided to visit Asakusa (浅草), a neighborhood we hadn't explored yet, and hoping to visit some temples and Tōkyō Skytree (東京スカイツリー). We took the train there and found ourselves in a bustling area full of shops and restaurants. It was chock-full of people because we were near Sensō-ji (浅草寺), Tokyo's oldest temple and one of its most significant. After wandering around we came across it and were captivated by its beauty, so we decided to explore it.
+We decided to visit [Asakusa (浅草)](https://www.japan-guide.com/e/e3004.html), a neighbourhood we hadn't explored yet, and hoping to visit some temples and [Tōkyō Skytree (東京スカイツリー)](https://www.japan-guide.com/e/e3064.html). We took the train there and found ourselves dropped off right in the middle of a bustling area full of shops and restaurants. It was chock-full of people because we were near [Sensō-ji (浅草寺)](https://www.japan-guide.com/e/e3001.html), Tōkyō's oldest temple and one of its most significant (and thus very popular). After wandering around we came across it and were captivated by its beauty, so we decided to explore it.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7" %}
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7-part-2" %}
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7-part-3" %}
 
-It was incredible to see up close, and there were so many people taking part in the spiritual practices. We weren't familiar with how to take part the right way so we chose not to do so, but we watched the rituals from afar and appreciated their significance for so many people.
+It was incredible to see up close, and many people were taking part in spiritual practices inside the temple. We weren't familiar with how to take part the right way so we chose not to do so, but we watched the rituals from afar and appreciated their significance for so many people.
 
-After our little snack, we continued our exploration of Asakusa. We found ourselves in this bustling shopping street called Nakamise-dori Street (仲見世通り). It was lined with all sorts of shops selling traditional Japanese crafts, snacks, and souvenirs. We had a blast just wandering around, taking in the sights and sounds, and of course, doing a bit of shopping.
+After about half an hour of exploring the temple, we continued on our exploration of Asakusa. We found ourselves in this bustling shopping street called [Nakamise-dori Street (仲見世通り)](https://www.japan.travel/en/spot/1696/). It was lined with all sorts of shops selling traditional Japanese crafts, snacks, and souvenirs. We had a blast just wandering around, taking in the sights and sounds, and of course, doing a bit of shopping.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7.1" %}
 
-We explored the area for a bit and decided to cross the river and visit the Tōkyō Skytree. It was a gorgeous day so we soaked up the sun on the walk (which was longer than expected).
+We explored the area for a bit and decided to cross the river and visit the Tōkyō Skytree. It was a gorgeous day so we soaked up the sun on the walk (which took longer than expected).
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7.2" %}
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7.2-part-2" %}
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7.2-part-3" %}
 
-We eventually made it to the Skytree. It was enormous -- it absolutely towered over the nearby streets. There were heaps of people inside, so we had to wait in line for tickets for about half an hour. We got tickets for both the Tembo Deck (350m high) and the Tembo Galleria (450m high), but had to wait another 20 minutes for our time slot to open. We explored the ground level while we waited and came across this incredible mural that was both very detailed and massive in its scale.
+We eventually made it to the Skytree. It was enormous -- it absolutely towered over the nearby streets. There were heaps of people inside, so we had to wait in line for tickets for about half an hour. We got tickets for both the [Tembo Deck (350m high)](https://www.tokyo-skytree.jp/en/floor/1st/350.html) and the [Tembo Galleria (450m high)](https://www.tokyo-skytree.jp/en/floor/2nd/), but had to wait another 20 minutes for our time slot to open. We explored the ground level while we waited and came across this incredible mural that was both very detailed and massive in its scale.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7.3" %}
 
-Before we knew it, it was time to head up. We were delighted to learn that there were four elevators, and each had its own season theme. We went up in the spring elevator and later on came down in the winter elevator. They were huge and fast -- they could fit up to 40 people and had a max speed of 600m per minute, the fastest elevators in Japan. 
+Before we knew it, it was time to head up. We were delighted to learn that there were [four elevators](https://elevator-database.fandom.com/wiki/Tokyo_Skytree), and each had its own season theme. We went up in the spring elevator and later on came down in the winter elevator. They were huge and fast -- they could fit up to 40 people and had a max speed of 600m per minute, the fastest elevators in Japan. 
 
-There are no words for the views that greeted us as we entered the Tembo Deck. Tōkyō is an enormous city, and even though visibility was high that day, we couldn't see the end of it. Sometimes you can get lucky and see Mt. Fuji, but it was juuust too hazy for us. The deck wraps 360° around the building, so we could see the city from just about every angle. It was breathtaking.
+There are no words for the views that greeted us as we entered the Tembo Deck. Tōkyō is an enormous city, and even though visibility was high that day, we couldn't see the end of it. Sometimes you can get lucky and see Mt. Fuji (富士山), but it was juuust too hazy for us. The deck wraps 360° around the building, so we could see the city from just about every angle. It was breathtaking.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7.4" %}
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7.4-part-2" %}
 
-We soaked in the views and made our way up to the Tembo Galleria. The sun was starting to set on the city, and we decided to indulge in a cheeky beverage each at the bar. Definitely the best view we've ever had while enjoying a drink!
+We soaked in the views and made our way up to the top floor, Tembo Galleria. The sun was starting to set on the city, and we decided to indulge in a cheeky beverage each at the bar. Definitely the best view we've ever had while enjoying a drink!
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7.5" %}
 
-While we were seated there we heard gasps from some of the people sitting a bit further down the bar. We looked over and saw smoke billowing from a building. We were a bit concerned, but the smoke eventually grew smaller so it looked like it was under control. We googled it to no avail, but we hoped everyone was okay.
+While we were seated there we heard gasps from some of the people sitting a bit further down the bar. We looked over and saw smoke billowing from a building. We were a bit concerned, but the smoke eventually grew smaller so it looked like it was under control. We googled it and after some digging, we eventually found on a Japanese news website that it was coming from a tyre shop and one person was injured. We hope they were ok!
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7.6" %}
 
-After spending a little more time taking in the views, we headed back down to earth. We were pretty hungry, so we decided to finally try out Japanese Domino's. We've been curious about it for a while, and we were coming to the end of the trip, so why not? Soph ordered the Ultra Cheese and Tristan went for the Big Dack, a burger-themed pizza that's basically a pizza rip-off of the Big Mac. They can't call it that, of course, so they went with Big Dack.
+After spending a little more time taking in the views, we headed back down to earth. We were pretty hungry, so we decided to finally try out [Japanese Domino's](https://www.dominos.jp/en). We'd been curious about it for a while, and we were coming to the end of the trip, so why not? Soph ordered the [Ultra Cheese](https://www.dominos.jp/en/menu-pizza/1884) and Tristan went for the [Big Dack](https://soranews24.com/2023/02/05/dominos-pizza-japans-big-dac-burger-pizza-tastes-like-food-from-a-completely-different-chain/), a burger-themed pizza that's basically a pizza rip-off of the Big Mac. They can't call it that, of course, so they went with Big Dack.
 
-After a short wait, we grabbed our pizzas and headed to the Skytree area. We found a free table in the surrounding gardens and had a little pizza picnic. It was cold and dark by then, but we didn't mind. Soph even tried maple syrup on her pizza, which was nice but a bit too sweet by the end.
+After a short wait, we grabbed our pizzas and found a spot to sit near the Skytree. We found a free table in the surrounding gardens and had a little pizza picnic. It was cold and dark by then, but we didn't mind. Soph even tried maple syrup on her pizza, which was nice but a bit too sweet by the end of her meal.
 
-Since there are hardly any bins in Japan, we had to carry our pizza boxes around in our bag. We then climbed four giant sets of stairs to get to the ice skating rink. It was quite expensive - ¥4,200 for everything, including socks and gloves which we didn't have, and the skates and entry fee. But we realised we only had one chance in our lives to ice skate at night at the base of the Tōkyō Skytree, so we went for it.
+Since there are hardly any bins in Japan, we had to carry our pizza boxes around in our bag. We then climbed four giant sets of stairs to get to the [ice skating rink](https://www.timeout.com/tokyo/things-to-do/ice-skating-park-at-tokyo-skytree-town). It was quite expensive - ¥4,200 for everything (about $43 AUD), including socks and gloves, the skates, and the entry fee. The price was a bit steep, but we realised we only had one chance in our lives to ice skate at night at the base of the Tōkyō Skytree, so we went for it.
 
-The staff were lovely and helped us find our shoe sizes. We got a ¥100 coin locker for our bag and shoes, and then put on our skates. To say we were humbled by the ice is an understatement. Tristan's shoes didn't fit right so after a lap or two he was in pain. Soph on the other hand won the award for the worst skater of the day. She only managed one lap and was holding on to the side of the rink the entire time. The poor instructor was trying to help, but it just was not gonna happen. After two laps of the small rink, we decided to call it a day.
+The staff were lovely and helped us find our shoe sizes with ease. We got a ¥100 coin locker for our bag and shoes, put on our skates, and made our way onto the rink.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7.7" caption="So graceful." %}
 
-We returned our skates, got our stuff back, and took some photos and videos with the Skytree before we left. It was beautiful at night -- it changed colours every few minutes.
+To say we were humbled by the ice is an understatement. Tristan's shoes didn't fit right so after a lap or two his feet were in a punish. Soph on the other hand won the award for the worst skater of the day. She only managed one lap and was holding on to the side of the rink the entire time. The poor instructor was trying to help, but it just was not gonna happen. After two laps of the small rink, we decided to call it a day.
+
+We returned our skates, got our stuff back, and took some photos and videos with the Skytree before we left. It was just as beautiful at night -- it changed colours every few minutes.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7.8" %}
 
-On our way out, we discovered a random Studio Ghibli store (as if we needed an excuse to get more Ghibli-themed souvenirs). The store itself was super cool -- it had a cat bus in the window with its eyes lit up and a giant Totoro inside. It was full of all sorts of Ghibli merch, and we put our souvenirs budget to good use. Soph got a Kiki's Delivery Service headband and we also got a Spirited Away surprise capsule toy (a very restrained haul). We even spotted a Sizzler on the way out across the river! So you're telling me that Toowoomba's Sizzler had to shut down, but the one in Tōkyō is alive and well? What a bizarre world we live in.
+On our way out, we discovered a random Studio Ghibli store, [Donguri Republic](https://www.tokyo-solamachi.jp/en/shop/165/) (as if we needed an excuse to get more Ghibli-themed souvenirs). The store itself was super cool -- it had a giant [catbus](https://en.wikipedia.org/wiki/Catbus) in the window with its eyes lit up and an equally giant Totoro inside. It was full of all sorts of Ghibli merch, and luckily we still had some money left in our souvenirs budget. Soph got a Kiki's Delivery Service headband and we also got a Spirited Away surprise capsule toy (a very restrained haul).
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7.9" %}
 
-We then took the subway back to Shibuya. It was a direct line from the Skytree, which was lucky. We even managed to get seats, which is a rare luxury in Japan. 
+After leaving the store, we spotted a [Sizzler](https://en.wikipedia.org/wiki/Sizzler) in a tall building across the river! So you're telling me that Toowoomba's Sizzler had to shut down, but the one in Tōkyō is alive and well? What a bizarre world we live in.
 
-Back in Shibuya, we stopped at a FamilyMart near our hotel for some drinks. We sat outside the FamilyMart one last time before we leave, just like we used to do when we first got here. We explored Shibuya at night again (Japan at night just hits different, alright?) and soaked in our last night in Japan. It was a bittersweet feeling, but we were so grateful for the experience.
+{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7.91" caption="(I wonder if they sell cheese toast...) " %}
+
+After a short walk, we hitched a ride on the subway back to Shibuya. It was a direct line from the Skytree, which was handy because we didn't have to switch trains. We even managed to get seats, which is a rare luxury on subways.
+
+Back in Shibuya, we stopped at a FamilyMart for some drinks. We sat outside the FamilyMart one last time before we leave, just like we used to do when we first got here. We explored Shibuya at night again (Japan at night just hits different, alright?) and soaked in our last night in the country. We had mixed feelings about leaving, but we were so grateful to have the opportunity to explore such an incredible place.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/7.10" %}
 
-Back at the hotel, we had a nice bath and then got settled into bed. We had a big day of travel coming up so we needed as much sleep as we could manage.
+Back at the hotel, we had a nice bath each and settled into bed. We had a big day of travel coming up, so we needed as much sleep as we could manage.
 
-# Day 20: Last day in Japan and TeamLab
-Our last official day in Japan started with a bit of a laundry mishap. We had put a load of washing in the night before, hoping it would be dry by morning, to help lighten the washing load when we returned to Aus. But, in our tiredness the night before, forgot to put in on a dry cycle after washing them.
+# Day 20: Last day in Japan and teamLab Planets
+Our last day in Japan started with a bit of a laundry mishap. We had put a load of washing in the night before to minimise the amount of washing we needed to do when we got home to Aus. We hoped it would be dry by morning, but we accidentally forgot to put in on a dry cycle after washing them.
 
-Tristan woke up in a panic, realizing our clothes were still wet, and we had a busy day ahead. In a rush, he put it on what he thought was a dry cycle, but it turned out to be another wash cycle. So, our clothes ended up even wetter than before! Not ideal when you have to check out of the hotel soon.
+Tristan woke up in a panic, realising our clothes were still wet and that we needed to pack up our clothes within two hours. In a rush, he put it on what he thought was a dry cycle, but it turned out to be another wash cycle. Now our clothes were even wetter than before!
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/8" caption="I'm convinced Hell is just billions of these stupid machines, everywhere you look." %}
 
-With a full load of sopping wet clothes and a ticking clock, we had to think on our feet. The wet clothes were not ideal because they would make our bags too heavy for the plane, plus who wants wet clothes in their suitcase for 24 hours? We came up with a plan -- we would have our hotel hold our bags for us while we went to TeamLabs, then pick them back up in the afternoon to dry them properly at a laundromat.
+With a full load of sopping wet clothes and a ticking clock, we had to think on our feet. The wet clothes were not ideal because they would make our bags too heavy for the plane, plus who wants wet clothes in their suitcase for 24 hours? We eventually devised a plan; we would check out, have our hotel hold our bags for us while we went to teamLabs, then pick them back up in the afternoon to dry them properly at a laundromat. We packed up our clothes in a few plastic bags, hoping that would keep the water out of our dry belongings, and packed up our suitcases.
 
-We left our luggage, heavy with wet clothes, at the hotel and headed out into the snow, a sight we hadn't seen before in Tokyo. We grabbed our final cheese toast breakfast at Doutour and then made our way to Shibuya Station. We hopped on a couple of trains and even got to ride the monorail to TeamLabs, which was such a cool experience.
+After checking out, we left our luggage, heavy with wet clothes, with the hotel staff. They were super chill about it, and as we left we tried not to think about the possibility of the clothes leaking all over their floor while we were gone. We headed out into the snowy streets of Shibuya, which was a cool experience as we hadn't seen snow in Tōkyō before. We grabbed our final cheese toast breakfast at Doutour and then made our way to Shibuya Station. We hopped on a couple of trains and even got to ride the monorail to teamLabs, which was such a cool experience.
 
-We were welcomed to TeamLabs by a huge line of people waiting to get in. It was also raining, which wasn't ideal. We waited for about 20 minutes before we could scan our tickets and enter. Once inside, we were ushered into a black room where we had to take off our shoes and store our belongings in a locker. The only things we kept with us were our phones and cameras.
+We were welcomed to teamLabs by a huge line of people waiting to get in. It was also raining, which isn't ideal when you have to line up *outside*. We waited in the rain for about 20 minutes before we were allowed in. Once inside, we were ushered into a black room where we had to take off our shoes and store our belongings in a locker. The only things we kept with us were our phones and cameras.
 
-The first part of the exhibit was the water section. We walked up a small hill with water rushing down our feet. The feeling of water rushing on our tired feet was an instant mood-booster. The walkways between the rooms were dark, with only red lights at the bottom to guide our way.
+We walked in to the exhibit together with around 100 other people. It was pretty crowded, but people walked through the exhibits at their own pace, so it didn't always feel super cramped.
+
+The first part of the exhibit was the water section. We walked up a small hill with water rushing down our feet, which perfectly set the tone for the whole experience. The feeling of water rushing on our tired feet was an instant mood-booster. The walkways between the rooms were dark, with only red lights at the bottom to guide our way.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/8.2" %}
 
+The first room was a big pillowy room that was tricky to walk across. It was soft and easy to fall into, which was really fun and comfy (until you were breathless from something kids do for fun). After fighting for our life to make it across, we eventually made it to the other side.
 
-The first room was a big pillowy room that was tricky to walk across. It was soft and easy to fall into, which was really fun and comfy (until you were breathless from something kids do for fun). It was more challenging than we thought it would be to make it to the other side, but we eventually made it.
-
-After some more exploring, we came across a big open room with knee-deep water that was covered in projections of koi fish. It was incredible, and even more so knowing that the projections were based off where we were in the water, so the fish would swim away from us if we got too close. We couldn't imagine what that kind of program would look like, which made us appreciate the exhibit even more.
+The next room was huge and filled with knee-deep water that had projections of koi fish. It was incredible, and even more so knowing that the projections were based off where we were in the water, so the fish would swim away from us if we got too close. Most of the rooms have some kind of projection or light show that is algorithm-based and reactive to people moving around in the room, so every time you go to the exhibit, you see something different. As people who know a little about computer programming, it boggles the mind to think about what the programs running these exhibits must look like.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/8.3" %}
 
-Next we went into a room with every surface covered in mirrors, with long strips of LEDs hanging from the ceiling. The strips were super close together with only a couple of paths through the room, and the lights flickered and changed colour according to a unique program that was always changing. This is the room that is most popular on social media so everyone and their dog were taking photos and selfies, but we tried to stay present and enjoy it as much as we could. People lingered so long that the poor staff had to usher them along (an urgency that is very uncommon in Japan).
+Next we went into a room with every surface covered in mirrors, with long strips of LEDs hanging from the ceiling. The strips were super close together with only a couple of paths through the room, and the lights flickered and changed colour. These lights were also controlled by an algorithm-based program, so it was cool to think that we would be the only people to see the lights change in this exact way.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/8.4" %}
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/8.4-part-2" %}
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/8.4-part-3" %}
 
-We then went into a dark room with an incredible projection of flowers on the ceiling. It was round-shaped, and we laid on the ground and just soaked it all in. It was a borderline meditative experience.
+This is the room that is most popular on social media, so every single person was taking photos and selfies. They were also walking really slowly through the exhibit so it was hard to move around, so much so that the poor staff had to usher us along (an urgency that is very uncommon in Japan).
+
+Afterwards, we moved on to a dark room with an incredible projection of flowers on the ceiling. It was round-shaped, and we laid on the ground and just soaked it all in. It was a borderline meditative experience.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/8.9" %}
 
-Afterwards we headed to a room filled with enormous opaque spheres that were lit up with beautiful colours. You could even push some of the balls and almost kick them around.
+Next, we headed to a room filled with enormous opaque spheres that were lit up with beautiful colours. You could even push some of the balls and almost kick them around.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/8.5" %}
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/8.5-part-2" %}
@@ -239,52 +250,63 @@ The second last room was outdoors. It had a moss floor and bunch of space-like s
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/8.6" caption="Hi from space!" %}
 
-The final room was the orchid room, which was another mirror room that had real, living orchids hanging from the ceilings. The orchids were raised and a large group of people would go in, then the orchids would be lowered. It was like you were standing in the middle of the coolest rainforest. It was so cool to see in person.
+The final room was the orchid room, which was another mirror room that had real, living orchids hanging from the ceilings. The orchids were raised and a large group of people would go in, and after everyone sat on the ground, the orchids would be lowered. It was like you were in the middle of the coolest floral rainforest. It was incredible to see in person.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/8.7" %}
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/8.7-part-2" %}
 
-We said goodbye to TeamLabs and rode the monorail on our way back to Shibuya. It was such a cool experience the first time and we were glad we got to do it again on the way back.
+If you're heading to Tōkyō, this has to be on your list of places to visit. It's usually the first thing everyone recommends, and for good reason! It is totally worth the money, just make sure you bring comfy shorts.
+
+We said goodbye to teamLabs and rode the monorail on our way back to Shibuya. The monorail was such a cool experience the first time and we were glad we got to do it again on the way back.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/8.8" %}
 
-We made it back and were in a bit of a rush to sort out our laundry debacle, but we couldn't do so without lunch (of course), so we stopped at the tried-and-true Great Burger Stand before heading back to the hotel. We ordered the same thing we had last time (which was delish), and to Tristan's (definitely not Sophie's) delight, the restaurant played Stinkfist by Tool (one of his all-time favourite songs). They must've knew we were coming!
+We made it back and were in a bit of a rush to sort out our laundry debacle, but we couldn't do so without lunch (of course), so we stopped at the tried-and-true Great Burger Stand before heading back to the hotel. We ordered the same thing we had last time (which was delish), and to Tristan's (definitely not Sophie's) delight, the restaurant played [Stinkfist](https://en.wikipedia.org/wiki/Stinkfist) by [Tool](https://en.wikipedia.org/wiki/Tool_(band)) (one of his all-time favourite songs). They must've knew we were coming!
 
-After collecting our luggage from the hotel, we found a nearby laundromat to dry our clothes. We had to lug our luggage (I see why it's called luggage now) for about 15 minutes up and down hills in the rain, but we eventually made it to the laundromat. Luckily no water seeped onto our dry belongings in the suitcase. We shoved the clothes into two driers to hopefully save time and crossed our fingers.
+After collecting our luggage from the hotel, we found a nearby laundromat to dry our clothes. We had to lug our luggage (we see why it's called luggage now) for about 15 minutes up and down hills in the rain, but we eventually made it to the laundromat. Luckily no water seeped onto our dry belongings in the suitcase, and the place was empty, so we could take up as much room as we wanted. We shoved the clothes into two driers to hopefully save time and crossed our fingers.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/9" caption="Guess who was more hopeful that this would work." %}
 
-The laundry mishap was a huge bummer, and we were absolutely drenched from the freezing rain we had to walk through. At this point we thought the hard work was over, so we were in a better mood.
+The laundry mishap was a bit of a bummer because it ate into so much of our last day in Japan. We were also absolutely drenched from the freezing rain we had to walk through to get to the laundromat. Despite that, we were convinced that the hard part was over, so we were in a much better mood.
 
-Thankfully our clothes were perfectly dry with some time to spare. Tristan even used a special machine to dry his shoes, which were grimaced at by a Mum who wanted to dry her shoes later on.
+Thankfully, the laundromat did its job and our clothes were perfectly dry with some time to spare. Tristan even used a special machine to dry his shoes, which were grimaced at by a Japanese Mum who wanted to dry her shoes later on.
 
-With our bags packed, we headed off to Shibuya Station to catch the train to the airport. Our flight was at 9pm, so at this point we had about 5 hours before our plane left. We were feeling the time crunch, but we were confident we'd make it.
+At around 3:30 pm, our suitcases were packed and we headed off to Shibuya Station to catch a train to the airport. Our flight was at 9:00 pm, so at this point we had a little over 5 hours before our plane left. We were feeling the time crunch, but we were confident we'd make it.
 
-We got to the gate and tried to purchase a ticket, but loh and behold we didn't have enough cash on us and of course there wasn't an ATM in sight. We were deep in the station, so poor Tristan had to sprint to a not-so nearby convenience store to get some cash. The withdrawal amount started at ¥10,000, which was way more than we needed, but we didn't have time to be picky. Tristan eventually returned with the cash and we were able to purchase our tickets.
+We got to the gate and tried to purchase a train ticket, but loh and behold we didn't have enough cash on us and of course there wasn't an ATM in sight. We were deep in the station, so poor Tristan had to sprint to a not-so nearby convenience store to get some cash. The ATM there had a minimum withdrawal amount of ¥10,000 (about $100 AUD), which was way more than we needed, but we didn't have time to find another ATM. Tristan eventually returned with the cash and we were able to purchase our tickets.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/10" caption="That mishap wasn't so bad, right?..." %}
 
-By the time we made it to the platform we only had four hours to go, which was a bit concerning considering we still had a train to catch and to get through customs. Thankfully the train was running on time (thanks, Japanese efficiency!) and we boarded without a hassle. There were plenty of seats on the train, so we settled in for a long ride.
+By the time we made it to the platform we only had four hours to go, which was a bit concerning considering we still had to catch our train, check in at the airport, and get through customs. Thankfully, the train was running on time (thanks, Japanese efficiency!) and we boarded without issue. There were plenty of seats on the train, so we settled in and enjoyed our last Japanese train trip for a while.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/11" %}
 
-By 6:30pm we were at the airport. It was a long trek to our terminal, but we eventually made it. We were confused about where to check-in, but a friendly airport worker directed us to a check-in counter that was tucked behind the domestic check-in area. We were a bit nervous about checking in our bags because we thought they would be too heavy, but to our surprise they weren't even close to the weight limit. We checked in with minimal issues and headed to customs.
+By 6:30 pm, we had finally made it to [Narita Airport](https://en.wikipedia.org/wiki/Narita_International_Airport). It was a long trek to our terminal, but we eventually made it. We struggled to find the check-in desk, and our confusing pacing back and forth prompted a friendly airport worker to direct us to the Jetstar check-in counter that was tucked behind the domestic check-in area. We were a bit nervous about checking in our bags because we thought they would be too heavy, but to our surprise they weren't even close to the weight limit. We checked in with no dramas and headed to customs.
 
-Thankfully, customs wasn't too busy and we were able to get through without many dramas. There was one issue when they discovered a small carton of sake that we intended to bring home as a gift to Corey, but sadly no fluids of that size were allowed, so we had to discard it.
+Thankfully, customs wasn't too busy and we were able to get through without much hassle. Tristan was pulled aside after his carry-on was scanned because he had forgotten to take out a small carton of sake that we intended to bring home as a gift for his brother, but sadly no fluids of that size were allowed in carry-on luggage, so we had to discard it.
 
-We were desperate for food by this point, so we stopped to grab some dinner. We were pleased that the hard part was over and that there wasn't much that could get between us and our flight home.
+We were starving by this point, so we stopped in the cafeteria to grab some dinner. We were so relieved to have made it through customs in time, considering the hectic day we had just had. The hard part was over now, and bar a cancelled flight or airport evacuation, there was nothing that could prevent us from making our flight.
 
-After dinner, we said goodbye to our trusty Pocket WiFi. It had served us well on our trip, and it was an easy drop off into the post box.
+After dinner, the time had come to say goodbye to our trusty Pocket Wi-Fi. We carried it around every day on our trip, and it made it so easy to connect to the internet regardless of where we were in the country. If you're travelling to Japan, we highly recommend that you rent one for your trip. We rented ours online from [Japan Wireless](https://www.japan-wireless.com/) before our trip, picked it up from the airport when we arrived, and put it in the post box at the airport in the reply paid envelope once we connected to the airport Wi-Fi before our flight home.
+
+We were so happy with it that we were kind of sad to see it go. It had served us well on our trip, and we made sure to give it a good send off.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/12" %}
 
-Before we knew it, we were on the plane home. We felt so grateful to experience such an incredible trip, and it was even better that we shared it together. We were sad that our trip was over, but we were also excited to return home to some normalcy and to see Ferris again. Japan was obviously sad to see us go, since it was raining as we left.
+Before we knew it, it was time to board and we were on the plane home. We felt so grateful to experience such an incredible trip, and it was even better that we shared it together. We were sad that our trip was over, but we were also excited to return home to some normalcy and to see Ferris again. Japan was obviously sad to see us go, since it was raining as we left.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/13" %}
-{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/13-part-2" %}
 
-After a nine-hour flight with minimal sleep and bare-minimum food, we eventually made it to the Gold Coast Airport. We were one of the first people off the plane so we only had to wait in the customs line for about 20 minutes. We used a self-serve machine to process our passports and paperwork, and then we were on our way to collect our bags. They came out pretty quickly, and we wasted no time getting the hell out of the last transport-related building of our journey. Soph's Dad wasn't too far behind and picked us up in no time.
+After a nine-hour flight with minimal sleep and bare-minimum food, we eventually made it to the [Gold Coast Airport](https://www.goldcoastairport.com.au/). Australia welcomed us back with clear, sunny weather. It was a sight for sore eyes after an uncomfortable flight!
 
-We celebrated being back on home soil with a Maccas breaky -- god it was good. Dad drove us home and we bored him with endless stories (he took it like a champ), and he dropped us off to pick up Tristan's car from Corey's place. We hopped in and drove home where we were finally reunited with our orange guy.
+{% include image-gallery.html folder="/assets/uploads/images/tokyo-return/13.1" %}
+
+We were one of the first people off the plane, so we only had to wait in the customs line for about 20 minutes. We used a self-serve machine to process our passports and paperwork, and then we were on our way to collect our bags. They came out pretty quickly, and we wasted no time getting the hell out of the last transport-related building of our journey. Soph's Dad wasn't too far behind and picked us up in no time.
+
+We celebrated being back on home soil with a Maccas brekky -- god it was good. Soph's Dad drove us home and we bored him with endless stories (he took it like a champ), and he dropped us off to pick up Tristan's car from his brother's place. We hopped in and drove home where we were finally reunited with our orange guy.
 
 {% include image-gallery.html folder="/assets/uploads/images/tokyo-return/14" %}
+
+And that's it for our first Japan trip! We hope you enjoyed reading our little blog about our favourite trip we've ever taken (so far!). We will definitely be back to see this beautiful country.
+
+さようなら (Goodbye)!

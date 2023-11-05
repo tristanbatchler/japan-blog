@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About
+title: About Us
 permalink: /about
 ---
 
-Ad ut duis exercitation elit nisi dolore qui culpa exercitation irure elit mollit. Id laboris irure non aliquip laborum veniam est quis. Consectetur ullamco pariatur est magna ea cillum dolor
-![Soph](/assets/uploads/images/soph.jpg)
+Hi! We're **Sophie and Tristan**, an Australian couple in our mid-twenties who love to travel. We have two orange cats, Ferris and Goldie (we only had Ferris at the time of our trip). We're also tech nerds, and we built this website ourselves to have a place to easily look back on our travel memories.
 
-Nulla qui nisi incididunt officia fugiat sunt labore sint eiusmod ut deserunt. Labore tempor cillum dolore aute. Labore tempor ipsum enim sit commodo. Consectetur voluptate fugiat in ea eu minim ad ullamco consectetur adipisicing ipsum cillum Lorem. Adipisicing ullamco aliqua ex cupidatat anim. Quis deserunt voluptate ea sint officia officia duis. Et et proident aliqua sit irure in.
+This blog documents our trip to Japan in early 2023. It was Soph's first trip overseas, and Tristan's second. Each page is a recollection of our experiences in each city, big and small, and features our recommendations for accommodation, food, and attractions. Each page is smattered with happy snaps from our iPhones and nicer pictures taken on Soph's [Sony α6400 (stock lens)](https://www.sony.com.au/interchangeable-lens-cameras/products/ilce-6400). The nicer photos were edited in Lightroom using 
 
-Non elit anim excepteur nulla nisi esse elit pariatur. Dolor aliqua duis consectetur non eu excepteur cupidatat veniam et ex. Occaecat ipsum ipsum consectetur aliquip duis consequat aliqua elit enim aliquip fugiat sunt elit. Sit laboris ad sunt do velit nisi veniam reprehenderit.
+We wrote this blog from transcribed voice notes we recorded every night of our trip. It was a great way to make sure we didn't forget any of the small moments of our trip.
 
-Adipisicing nisi eu exercitation nisi quis id. Sit mollit occaecat dolor excepteur in laborum. Ut magna duis anim dolore enim tempor est nostrud aliqua exercitation fugiat magna minim. Commodo ex irure sit anim aliqua laboris fugiat eu deserunt nostrud consequat officia incididunt esse. Eu sunt eiusmod incididunt ullamco officia ad dolor irure fugiat eiusmod dolor officia. Esse ex id laborum ut eu proident sunt mollit. Do minim anim amet est consectetur et pariatur pariatur amet anim dolor pariatur eu.
+We hope you enjoy it!
 
-Eu incididunt esse elit enim. Sint id commodo proident ipsum eiusmod velit labore non ullamco nostrud. Tempor laboris proident culpa ut quis. Esse fugiat proident dolor minim quis.
+- Soph & T
+
+{% include image-gallery.html folder="/assets/uploads/images/tokyo/4.1" %}
