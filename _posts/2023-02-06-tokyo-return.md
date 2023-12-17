@@ -4,6 +4,8 @@ title: Tōkyō • 東京
 tags:
   - tokyo
 image: /assets/uploads/images/tokyo-hero-2.jpg
+description: >-
+  Our final days in Japan were spent back in Tōkyō, where we crossed off the Studio Ghibli Museum, the Tōkyō Skytree, and teamLab Planets from our bucket list. From getting lost in Shibuya station to dining at sushi trains, we made the most of our last few days in Japan before getting ready to head home.
 ---
 # Day 16: Back to Tōkyō
 After waking up in our futons, we planned to visit the onsen downstairs early in the morning. Sadly, it was closed (boo). So, we spent the morning relaxing, packing, drinking tea in the sun room while admiring the clear view of the mountains. The sun had finally come out after days of overcast weather, and we couldn't believe those mountains had been there the entire time.

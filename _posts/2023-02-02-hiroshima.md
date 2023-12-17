@@ -3,6 +3,8 @@ layout: post
 title: "Hiroshima • 広島市"
 tags: [tokyo, kyoto, osaka, hiroshima]
 image: /assets/uploads/images/hiroshima-hero.jpg
+description: >-
+  In our brief but memorable stay, we navigate Hiroshima's powerful past and present. From the evocative Peace Museum and Memorial Park, to stunning views and rooftop drinks, and even tackling the bustling streets for HDMI cables. A visit to Miyajima Island brings us face-to-face with friendly deer and the iconic floating torii gate, offering a mix of adventure and tranquility.
 ---
 
 # Day 12: Off to Hiroshima • 広島市

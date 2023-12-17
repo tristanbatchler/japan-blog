@@ -3,6 +3,9 @@ layout: post
 title: "Yamanouchi • 山ノ内"
 tags: [tokyo, kyoto, osaka, hiroshima, yamanouchi]
 image: /assets/uploads/images/yamanouchi-hero.jpg
+description: >-
+  On our way back to Tōkyō, we make a detour for the Japanese alps to pay a visit to the snow monkeys, try our hands at skiing, and indulge in some truly delicious 
+  izakaya food. Along the way, we meet some interesting characters and appreciate the stunning vistas of the snowy Japanese countryside.
 ---
 
 # Day 14: The long trip to Yamanouchi (山ノ内)

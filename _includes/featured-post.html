@@ -1,8 +1,11 @@
 <article>
-  <a href="{{ site.url }}{{ post.url }}">
-    {% comment %} Get the colour image filename {% endcomment %}
-    {% assign colour_image = post.image | replace: '.jpg', '-colour.jpg' %} 
+  <a href="{{ site.url }}{{ post.url }}" class="featured-post-link">
+    {% comment %} Get the color image filename {% endcomment %}
+    {% assign colour_image = post.image | replace: '.jpg', '-colour.jpg' %}
     <div class="featured-post" {% if post.image %}style="background-image:url({{ site.url }}{{ colour_image }})"{% endif %}>
+      <div class="overlay">
+        <p><em>{{ post.description }}</em></p>
+      </div>
       <h2><span>{{ post.title }}</span></h2>
     </div>
   </a>
