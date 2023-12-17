@@ -15,3 +15,6 @@ description:	       "Tristan & Sophie's travel journal from their trip to Japan 
 #  path: rss-feed.xml
 
 url: https://japan.tbat.me
+
+sass:
+  style: compressed
