@@ -20,12 +20,24 @@
 
                     <li>
                         <a href="{{ imagepath }}">
+                            {% comment %} Display a placeholder while the image is loading {% endcomment %}
+                            <div class="placeholder"></div>
                             {% if site.url contains 'localhost' or site.url contains '127.0.0.1' or file.extname == '.gif' or file.extname == '.GIF' %}
                                 {% comment %} If the site is running locally, or if it's a gif then just display the image as-is {% endcomment %}
-                                <img src="{{ imagepath }}" />
+                                <img 
+                                    src="{{ imagepath }}" 
+                                    loading="lazy" 
+                                    style="filter: opacity(0);" 
+                                    onload="this.style.display='block'; this.previousElementSibling.style.display='none'; this.style.filter='none';" 
+                                />
                             {% else %}
                                 {% comment %} If the site is running on the Internet, then use the weserv.nl service to resize and optimize the image {% endcomment %}
-                                <img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ imagepath }}&h=300&output=jpg&q=85" />
+                                <img 
+                                    src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ imagepath }}&h=300&output=jpg&q=85" 
+                                    loading="lazy" 
+                                    style="filter: opacity(0);" 
+                                    onload="this.style.display='block'; this.previousElementSibling.style.display='none'; this.style.filter='none';" 
+                                />
                             {% endif %}
                             <span><em>{{ include.caption }}</em></span>
                         </a>
